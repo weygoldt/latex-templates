@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="176.83205mm"
+   height="272.76251mm"
+   viewBox="0 0 176.83205 272.76252"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="inward_phyl.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73406285"
+     inkscape:cx="275.86194"
+     inkscape:cy="504.72517"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7927" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath63">
+      <path
+         d="M 92.75,782.929 H 488.07 V 171.269 H 92.75 Z"
+         id="path61" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath477">
+      <path
+         d="M 92.75,782.929 H 488.07 V 171.269 H 92.75 Z"
+         id="path475" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath617">
+      <path
+         d="M 92.75,782.929 H 488.07 V 171.269 H 92.75 Z"
+         id="path615" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath639">
+      <path
+         d="M 92.75,782.929 H 488.07 V 171.269 H 92.75 Z"
+         id="path637" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath801">
+      <path
+         d="M 0,0 H 595 V 842 H 0 Z"
+         id="path799" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.173288,-1.9124847e-5)">
+    <g
+       id="g15"
+       inkscape:label="Inward et al_2007_Death of an order"
+       transform="matrix(0.35277777,0,0,-0.35277777,12.894096,292.55702)">
+      <g
+         id="g17"
+         transform="matrix(1.0248817,0,0,1.0248817,0.9094314,-20.634292)">
+        <g
+           id="g7927"
+           transform="translate(1.6292608,7.7897092)">
+          <g
+             id="g10617">
+            <g
+               id="g57"
+               transform="matrix(1.2371924,0,0,1.2371924,-97.133221,-144.80095)">
+              <g
+                 id="g59"
+                 clip-path="url(#clipPath63)">
+                <path
+                   d="M 406.341,769.067 H 93.932"
+                   style="fill:none;stroke:#999999;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path65" />
+              </g>
+            </g>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text69"
+               x="207.39578"
+               y="-847.16058"><tspan
+                 x="207.39578 211.64407 214.81429 218.34605 221.87778 223.61491 227.14664 228.88316 232.41487 235.94659 241.26646 244.79822 247.96843 249.70557 251.08122 254.25146"
+                 y="-847.16058"
+                 sodipodi:role="line"
+                 id="tspan67"
+                 style="stroke-width:1.14806">Acheta domestica</tspan></text>
+            <path
+               d="m 405.58877,800.69115 h -6.99138"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path71" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text75"
+               x="208.73851"
+               y="-840.84381"><tspan
+                 x="208.73851 212.98676 214.72394 218.25566 220.34785 223.87958 227.41132 230.75 233.92024 235.2959 236.67151 240.20328 241.94041 245.11063 248.64238 253.96223 257.49396 258.8696 260.24527 261.62088 263.16437 266.69611 268.07175 269.44739"
+                 y="-840.84381"
+                 sodipodi:role="line"
+                 id="tspan73"
+                 style="stroke-width:1.14806">Pterophylla camellifolia</tspan></text>
+            <path
+               d="m 405.58877,794.69819 h -2.99648"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path77" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text81"
+               x="210.08113"
+               y="-834.52747"><tspan
+                 x="210.08113 213.61285 217.14459 220.31483 223.84656 227.0168 228.75394 232.28566 234.02214 239.34203 240.71768 244.18486 246.21184 249.74358 251.4807 255.01242 257.20081 258.57645"
+                 y="-834.52747"
+                 sodipodi:role="line"
+                 id="tspan79"
+                 style="stroke-width:1.14806">Locusta migratoria</tspan></text>
+            <path
+               d="m 405.58877,787.70683 h -2.99648"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path83" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text87"
+               x="211.42383"
+               y="-828.21069"><tspan
+                 x="211.42383 216.7437 220.27544 221.65109 225.18282 228.71455 232.24626 235.77798 237.15366 240.68538 243.85562 245.59213 248.76234 252.29407 255.82582 259.35754 262.88928 264.26492 267.79666 271.3284 274.86011"
+                 y="-828.21069"
+                 sodipodi:role="line"
+                 id="tspan85"
+                 style="stroke-width:1.14806">Melanoplus sanguineus</tspan></text>
+            <path
+               d="m 402.59229,791.20313 h -3.9949 m 3.9949,3.49506 v -6.99136 m -3.9949,7.98978 H 23.073627 m 375.523763,4.99454 v -8.98944 m 6.99138,-9.98662 h -6.99138"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path89" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text93"
+               x="212.75165"
+               y="-821.96411"><tspan
+                 x="212.75165 215.86378 219.034 221.061 224.59273 228.12445 231.65619 235.18791 238.71965 242.25139 245.78313 248.95334 254.27322 257.80493 259.54147 263.07318 264.44882 267.98056 271.5123 272.88794 276.41965 278.1568 281.68854"
+                 y="-821.96411"
+                 sodipodi:role="line"
+                 id="tspan91"
+                 style="stroke-width:1.14806">Tyrannophasma gladiator</tspan></text>
+            <path
+               d="m 405.58877,775.72213 h -2.99648"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path95" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text99"
+               x="214.36763"
+               y="-814.36163"><tspan
+                 x="214.36763 218.61592 221.78616 223.16177 226.69351 228.78571 232.31746 235.84918 239.38091 242.91264 246.08289 251.40273 254.93446 256.67099 260.2027 263.73444 265.82663 269.35837 272.52859 273.90424 277.07446 280.6062 284.13794 287.30817 288.68381"
+                 y="-814.36163"
+                 sodipodi:role="line"
+                 id="tspan97"
+                 style="stroke-width:1.14806">Sclerophasma paresisensis</tspan></text>
+            <path
+               d="m 405.58877,768.73199 h -2.99648"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path101" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text105"
+               x="215.67555"
+               y="-808.20856"><tspan
+                 x="215.67555 220.99542 224.52718 228.05891 229.79604 233.32776 236.8595 240.39122 243.92299 247.0932 252.41307 255.94481"
+                 y="-808.20856"
+                 sodipodi:role="line"
+                 id="tspan103"
+                 style="stroke-width:1.14806">Mantophasma</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text109"
+               x="429.47385"
+               y="-808.20856"><tspan
+                 x="429.47385 432.64407 434.18695"
+                 y="-808.20856"
+                 sodipodi:role="line"
+                 id="tspan107"
+                 style="stroke-width:1.17371">cf.</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text113"
+               x="265.86469"
+               y="-808.20856"><tspan
+                 x="265.86469 268.93878 272.47049 276.00226 279.34094 282.51117 284.53882"
+                 y="-808.20856"
+                 sodipodi:role="line"
+                 id="tspan111"
+                 style="stroke-width:1.14806">zephyra</tspan></text>
+            <path
+               d="m 402.59229,772.22707 h -3.9949 m 3.9949,3.49506 v -6.99014 m -3.9949,7.9898 h -12.9831 m 12.9831,4.9933 v -8.98943 m 6.99138,-9.98662 h -9.98786"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path115" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text119"
+               x="217.24203"
+               y="-800.83917"><tspan
+                 x="217.24203 222.20685 224.49205 227.66231 229.03795 230.41357 233.9453 237.34793 238.72292 242.25464 243.99181 245.72894 247.10457 250.63631 254.16805 255.90453 259.43625 260.81189 264.34363 267.38412 270.91586 274.44757 277.88251 281.05273"
+                 y="-800.83917"
+                 sodipodi:role="line"
+                 id="tspan117"
+                 style="stroke-width:1.14806">Grylloblattina djakonovi</tspan></text>
+            <path
+               d="m 405.58877,756.74608 h -6.99138"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path121" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text125"
+               x="218.58476"
+               y="-794.52228"><tspan
+                 x="218.58476 223.54961 227.08131 228.45697 229.83261 233.36435 234.73996 237.91022 239.28586 242.81758 246.34932 249.88104"
+                 y="-794.52228"
+                 sodipodi:role="line"
+                 id="tspan123"
+                 style="stroke-width:1.14806">Galloisiana</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text129"
+               x="420.50006"
+               y="-794.52228"><tspan
+                 x="420.50006 423.67029 426.9761"
+                 y="-794.52228"
+                 sodipodi:role="line"
+                 id="tspan127"
+                 style="stroke-width:1.17371">sp.</tspan></text>
+            <path
+               d="m 405.58877,750.75312 h -2.99648"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path131" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text137"
+               x="219.86221"
+               y="-788.51251"><tspan
+                 x="219.86221 224.82704 227.11226 230.28247 231.65811 233.03377 236.56551 239.96812 241.34312 244.87485 246.61197 248.34912 251.88087 253.61736 256.7876 260.31934 265.63919 269.17093 272.70267 276.23441 279.76614 281.14175 282.6846 286.21631 288.46927 293.78912 295.16476"
+                 y="-788.51251"
+                 sodipodi:role="line"
+                 id="tspan133"
+                 style="stroke-width:1.14806">Grylloblatta campodeiformis</tspan><tspan
+                 x="221.35406 226.31889 228.60411 231.77432 233.14996 234.52562 238.05734 241.45998 242.83496 246.36668 248.10384 249.84096 253.37268"
+                 y="-781.49426"
+                 sodipodi:role="line"
+                 id="tspan135"
+                 style="stroke-width:1.14806">Grylloblatta</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text141"
+               x="421.22314"
+               y="-781.4942"><tspan
+                 x="421.22314 424.39343 427.69916"
+                 y="-781.4942"
+                 sodipodi:role="line"
+                 id="tspan139"
+                 style="stroke-width:1.17371">sp.</tspan></text>
+            <path
+               d="m 405.58877,743.76298 h -2.99648 m 0,2.99649 h -3.9949 m 3.9949,3.99365 v -6.99014 m -3.9949,7.98979 h -2.99648 m 2.99648,4.99331 v -9.98661 m -2.99648,10.98626 h -9.98662 m 9.98662,4.99331 v -10.98627 m -9.98662,15.97958 H 33.061477 m 352.552813,8.98944 v -18.97606"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path143" />
+            <path
+               d="M 405.58877,737.77002 H 382.61782"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path145" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text153"
+               x="221.67847"
+               y="-776.13434"><tspan
+                 x="221.67847 226.99834 230.53008 234.0618 235.79893 239.33067 240.70631 244.23804 247.76978 249.50627 252.67651 255.84674 259.37848 261.40546 264.93719 268.46893 272.00067 274.18903"
+                 y="-776.13434"
+                 sodipodi:role="line"
+                 id="tspan147"
+                 style="stroke-width:1.14806">Mantoida schraderi</tspan><tspan
+                 x="223.09541 224.83255 228.00279 231.53452 233.62671 237.15843 242.4783 246.01004 249.54176 251.27892 252.65456 255.8248 257.56195 261.09366 262.4693 265.63953 269.1713 271.26346 274.7952 276.17084 279.34106"
+                 y="-769.46667"
+                 sodipodi:role="line"
+                 id="tspan149"
+                 style="stroke-width:1.14806">Ichromantis dichroica</tspan><tspan
+                 x="224.51237 229.83224 233.36397 235.10112 238.63284 240.00848 241.38414 244.55435 246.29152 247.66714 250.83737 254.36909 257.53934 259.27582 262.44608 263.82172 267.35345 268.7291 272.2608 275.43103 278.96277"
+                 y="-762.79883"
+                 sodipodi:role="line"
+                 id="tspan151"
+                 style="stroke-width:1.14806">Metallyticus violacea</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text157"
+               x="386.65643"
+               y="-756.1319"><tspan
+                 x="386.65643 391.97632 395.50803 399.03976 400.77692 402.15253 405.32275"
+                 y="-756.1319"
+                 sodipodi:role="line"
+                 id="tspan155"
+                 style="stroke-width:1.17371">Mantis</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text163"
+               x="246.3311"
+               y="-756.1319"><tspan
+                 x="246.3311 248.42329 251.95505 253.33067 254.70631 258.23804 259.61371 263.14545 266.31567"
+                 y="-756.1319"
+                 sodipodi:role="line"
+                 id="tspan159"
+                 style="stroke-width:1.14806">religiosa</tspan><tspan
+                 x="227.34715 232.66704 234.04268 237.57442 242.89427 246.42603 249.95775 251.69489 253.07053 256.24075"
+                 y="-749.46411"
+                 sodipodi:role="line"
+                 id="tspan161"
+                 style="stroke-width:1.14806">Miomantis</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text167"
+               x="417.28354"
+               y="-749.46442"><tspan
+                 x="417.28354 420.45374 423.76016"
+                 y="-749.46442"
+                 sodipodi:role="line"
+                 id="tspan165"
+                 style="stroke-width:1.17371">sp.</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text175"
+               x="228.76479"
+               y="-742.79688"><tspan
+                 x="228.76479 231.87695 235.40868 238.94041 242.47214 246.00386 249.5356 251.56261 255.09433 256.83081 260.00104 261.37671 264.90845 268.44016 271.97189 275.14212 276.51779"
+                 y="-742.79688"
+                 sodipodi:role="line"
+                 id="tspan169"
+                 style="stroke-width:1.14806">Tenodera sinensis</tspan><tspan
+                 x="230.18175 234.43004 237.76811 240.93832 242.31396 243.68964 247.22136 250.3916 252.41858 255.9503 259.48203 260.85767 264.3894 266.12589 269.65765 273.18939 275.21637 278.74811 282.27982 285.61792 288.78815"
+                 y="-736.12915"
+                 sodipodi:role="line"
+                 id="tspan171"
+                 style="stroke-width:1.14806">Phyllocrania paradoxa</tspan><tspan
+                 x="231.59869 235.847 239.01723 242.54895 246.08069 249.61241 253.14415 256.31439 258.40659 261.93829 265.47003 269.00177 272.53351 274.27066 276.29764 279.82938 281.56589 286.07239 289.6041 293.13583 294.51147 298.04321 301.57492 303.66711 307.19885 308.57446"
+                 y="-729.46143"
+                 sodipodi:role="line"
+                 id="tspan173"
+                 style="stroke-width:1.14806">Pseudocreobotra wahlbergii</tspan></text>
+            <path
+               d="m 405.58877,731.77831 h -19.97448 m 19.97448,-6.99139 h -15.98082 m 15.98082,-5.99171 h -2.99648 m 2.99648,-5.99296 h -2.99648 m 0,2.99647 h -9.98786 m 9.98786,2.99649 v -5.99296 m 2.99648,-6.99138 h -6.99138 m 6.99138,-5.99172 h -2.99648 m 2.99648,-5.99295 h -2.99648 m 0,2.99647 h -3.9949 m 3.9949,2.99648 v -5.99295 m -3.9949,7.98977 h -5.99296 m 5.99296,3.9949 v -8.9882 m -5.99296,11.98469 h -2.99648 m 2.99648,6.99136 v -13.98275 m -2.99648,14.98117 h -3.99366 m 3.99366,7.98978 v -15.97956 m -3.99366,14.98116 h -2.99647 m 2.99647,7.98979 v -14.98117 m -2.99647,13.98274 H 56.032434 m 326.585386,6.99014 v -13.9815 m 22.97095,-36.95371 h -22.97095"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path177" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text185"
+               x="234.14995"
+               y="-721.98651"><tspan
+                 x="234.14995 238.75328 242.285 245.45525 247.19238 248.56802 251.73824 255.27 256.64563 260.17737 261.91385 265.44559 268.97733 272.14755 273.8847 275.91168 279.44339 280.81906 282.1947 285.72641 289.25818 292.42841 293.80405"
+                 y="-721.98651"
+                 sodipodi:role="line"
+                 id="tspan179"
+                 style="stroke-width:1.14806">Nocticola australiensis</tspan><tspan
+                 x="235.56693 239.81519 243.34691 245.08409 248.42212 251.59238 253.68456 255.77673 259.30847 262.84021 266.37192 269.90369 273.43542 275.17191 278.70361 282.23538 285.40561 286.78125 288.51837 289.89401 293.06427"
+                 y="-715.31873"
+                 sodipodi:role="line"
+                 id="tspan181"
+                 style="stroke-width:1.14806">Euthyrrhapha pacifica</tspan><tspan
+                 x="236.98387 241.58719 245.11893 246.49457 250.02629 253.19653 256.72827 262.04816 265.57986 268.75009 272.28186"
+                 y="-708.651"
+                 sodipodi:role="line"
+                 id="tspan183"
+                 style="stroke-width:1.14806">Holocompsa</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text189"
+               x="424.64948"
+               y="-708.65149"><tspan
+                 x="424.64948 427.81967 431.12549 432.47464 434.21115"
+                 y="-708.65149"
+                 sodipodi:role="line"
+                 id="tspan187"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text193"
+               x="238.40176"
+               y="-701.98395"><tspan
+                 x="238.40176 242.28854 243.66418 246.8344 248.21005"
+                 y="-701.98395"
+                 sodipodi:role="line"
+                 id="tspan191"
+                 style="stroke-width:1.14806">Tivia</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text197"
+               x="402.69254"
+               y="-701.98395"><tspan
+                 x="402.69254 405.86273 409.16855 410.5177 412.25421"
+                 y="-701.98395"
+                 sodipodi:role="line"
+                 id="tspan195"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text207"
+               x="239.81903"
+               y="-695.31659"><tspan
+                 x="239.81903 244.06729 246.15948 249.69121 255.01109 258.54282 261.94479 263.32047 266.85217 268.58929 270.32645 273.85818 275.5947 278.76492 282.29666 285.82837 289.36011 290.73578 294.26749 297.79922 301.33093 304.86267 308.39444"
+                 y="-695.31659"
+                 sodipodi:role="line"
+                 id="tspan199"
+                 style="stroke-width:1.14806">Eremoblatta subdiaphana</tspan><tspan
+                 x="241.23598 245.16148 248.69321 250.06885 253.23909 256.77081 260.30255 263.83429 267.366 270.89777 272.63425 276.16595 279.69769 283.22946 286.39969 289.9314 291.66858 293.04419 296.5759 299.74615"
+                 y="-688.64874"
+                 sodipodi:role="line"
+                 id="tspan201"
+                 style="stroke-width:1.14806">Polyphaga aegyptiaca</tspan><tspan
+                 x="242.65292 246.9012 248.99339 252.52512 256.05685 259.58856 260.9642 264.49594 266.23245 269.40268 272.93442 276.46616 279.99789 283.16812 284.54376 288.0755"
+                 y="-681.98108"
+                 sodipodi:role="line"
+                 id="tspan203"
+                 style="stroke-width:1.14806">Ergaula capucina</tspan><tspan
+                 x="244.06989 247.95667 251.4884 255.02013 257.1123 260.64404 264.17578"
+                 y="-675.31329"
+                 sodipodi:role="line"
+                 id="tspan205"
+                 style="stroke-width:1.14806">Therea</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text211"
+               x="409.45853"
+               y="-675.31403"><tspan
+                 x="409.45853 412.62878 415.93521 417.285 419.02216"
+                 y="-675.31403"
+                 sodipodi:role="line"
+                 id="tspan209"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <path
+               d="m 405.58877,680.8431 h -6.99138 m 6.99138,-5.99296 h -2.99648 m 2.99648,-6.49155 h -2.99648 m 0,3.49506 h -3.9949 m 3.9949,2.99649 v -5.99173 m -3.9949,7.98979 h -12.9831 m 12.98434,3.9949 v -8.98945 m 6.99014,-9.98662 h -2.99648 m 2.99648,-5.99295 h -2.99648 m 0,2.99647 h -6.99138 m 6.99138,2.99648 v -5.99295 m 2.99648,-5.99173 h -2.99648 m 2.99648,-6.99136 h -2.99648 m 0,3.99488 h -6.99138 m 6.99138,2.99648 v -6.99136 m -6.99138,9.98784 h -9.98662 m 9.98662,5.99172 v -11.98468 m -9.98662,17.97764 h -2.99647 m 2.99647,11.98469 v -23.96937 m -2.99647,22.96972 H 81.998622 m 300.619198,10.98626 v -21.9713 m 22.97095,-27.96425 h -9.98786"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path213" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text217"
+               x="245.64276"
+               y="-667.91882"><tspan
+                 x="245.64276 250.24611 252.5313 255.70154 261.02142 264.55316 268.08487 269.46051 272.99225 276.52399 280.05573 281.79285 285.32458"
+                 y="-667.91882"
+                 sodipodi:role="line"
+                 id="tspan215"
+                 style="stroke-width:1.14806">Drymaplaneta</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text221"
+               x="429.03302"
+               y="-667.91882"><tspan
+                 x="429.03302 432.20322 433.7467"
+                 y="-667.91882"
+                 sodipodi:role="line"
+                 id="tspan219"
+                 style="stroke-width:1.17371">cf.</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text229"
+               x="295.24451"
+               y="-667.91882"><tspan
+                 x="295.24451 298.41473 301.94647 307.26633 308.642 311.81223 313.18787 314.92502 316.66211"
+                 y="-667.91882"
+                 sodipodi:role="line"
+                 id="tspan223"
+                 style="stroke-width:1.14806">semivitta</tspan><tspan
+                 x="246.91058 251.15883 254.69057 256.97577 260.14603 263.31622 266.84799 268.58514 269.96072 273.13098 274.86749 276.60464 277.98022 281.51202 283.70038 285.07535 288.60709 292.13882 295.67056"
+                 y="-661.95337"
+                 sodipodi:role="line"
+                 id="tspan225"
+                 style="stroke-width:1.14806">Eurycotis floridana</tspan><tspan
+                 x="248.17841 252.42667 255.95839 258.24426 261.41449 264.58472 268.11642 269.85361 271.22922 274.39948"
+                 y="-655.98798"
+                 sodipodi:role="line"
+                 id="tspan227"
+                 style="stroke-width:1.14806">Eurycotis</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text233"
+               x="415.57236"
+               y="-655.98737"><tspan
+                 x="415.57236 418.74258 422.0484 423.39755 425.13406"
+                 y="-655.98737"
+                 sodipodi:role="line"
+                 id="tspan231"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text237"
+               x="249.44702"
+               y="-650.02173"><tspan
+                 x="249.44702 253.69531 257.22705 259.51291 262.68314 265.85336 269.3851 271.12222 272.49786 275.66812 277.40527 280.93698 282.31262 285.84439 287.58148"
+                 y="-650.02173"
+                 sodipodi:role="line"
+                 id="tspan235"
+                 style="stroke-width:1.14806">Eurycotis pluto</tspan></text>
+            <path
+               d="m 405.58877,630.9063 h -6.99138 m 6.99138,-5.99296 h -2.99648 m 2.99648,-6.99138 h -2.99648 m 0,2.99648 h -3.9949 m 3.9949,3.9949 v -6.99138 m -3.9949,7.99103 h -2.99648 m 2.99648,4.99331 v -9.98786 m -2.99648,10.98627 H 362.6421 m 32.95881,4.99455 v -10.98627 m 9.98786,-13.98275 h -29.96109"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path239" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text245"
+               x="251.10179"
+               y="-642.23706"><tspan
+                 x="251.10179 255.35004 257.44223 260.61249 264.1442 265.51987 268.92313 270.29877 273.83047 275.5676 277.30475 280.83652 282.57364 286.10538 289.63708 292.97583 295.98471 299.51642 303.04816 304.42377"
+                 y="-642.23706"
+                 sodipodi:role="line"
+                 id="tspan241"
+                 style="stroke-width:1.14806">Archiblatta hoevenii</tspan><tspan
+                 x="252.51874 256.767 259.93726 263.46896 267.0007 270.53244 274.06418 277.59592 281.12762 283.21982 286.75156 290.28326 293.81503 295.19064 296.9278 298.30344 301.47366"
+                 y="-635.56934"
+                 sodipodi:role="line"
+                 id="tspan243"
+                 style="stroke-width:1.14806">Pseudoderopeltis</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text249"
+               x="438.30383"
+               y="-635.5697"><tspan
+                 x="438.30383 441.47406 444.77985 446.129 447.86554"
+                 y="-635.5697"
+                 sodipodi:role="line"
+                 id="tspan247"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text253"
+               x="253.93631"
+               y="-628.9021"><tspan
+                 x="253.93631 258.53964 262.07135 264.16354 267.69528 271.22699 274.75876 276.1344 277.87152 279.24716 282.41742"
+                 y="-628.9021"
+                 sodipodi:role="line"
+                 id="tspan251"
+                 style="stroke-width:1.14806">Deropeltis</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text257"
+               x="417.832"
+               y="-628.9021"><tspan
+                 x="417.832 421.00223 422.54572"
+                 y="-628.9021"
+                 sodipodi:role="line"
+                 id="tspan255"
+                 style="stroke-width:1.17371">cf.</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text263"
+               x="292.33624"
+               y="-628.9021"><tspan
+                 x="292.33624 295.86798 299.39972 302.93149 304.30707 305.68274 309.21448 312.74619"
+                 y="-628.9021"
+                 sodipodi:role="line"
+                 id="tspan259"
+                 style="stroke-width:1.14806">paulinoi</tspan><tspan
+                 x="255.35344 259.95676 263.48849 265.58066 269.1124 272.64417 276.17587 277.55151 279.28867 280.66431 283.83453"
+                 y="-622.23438"
+                 sodipodi:role="line"
+                 id="tspan261"
+                 style="stroke-width:1.14806">Deropeltis</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text267"
+               x="417.832"
+               y="-622.23456"><tspan
+                 x="417.832 421.00223 424.30865 425.65851 427.3956"
+                 y="-622.23456"
+                 sodipodi:role="line"
+                 id="tspan265"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text281"
+               x="256.77087"
+               y="-615.56702"><tspan
+                 x="256.77087 261.37418 264.90591 266.99811 270.52982 274.06155 277.59329 278.96893 280.70609 282.08173 285.25195 286.98846 290.52017 292.80539 295.97565 297.71274 301.24451 303.33667 306.86841 310.03867 313.57037 317.10211 320.63385 324.16559 325.5412"
+                 y="-615.56702"
+                 sodipodi:role="line"
+                 id="tspan269"
+                 style="stroke-width:1.14806">Deropeltis erythrocephala</tspan><tspan
+                 x="258.18784 262.4361 265.96783 269.49954 270.87518 272.4187 275.95105 278.04324 281.57498 285.10672 286.48236 287.858 291.38971 293.12689 294.5025 298.03421 299.77139 303.30313 305.33072 308.8631 310.23877 311.61441"
+                 y="-608.89929"
+                 sodipodi:role="line"
+                 id="tspan271"
+                 style="stroke-width:1.14806">Shelfordella lateralis</tspan><tspan
+                 x="259.6048 263.85306 265.2287 268.76041 270.49756 272.23471 275.76642 277.50357 281.03531 283.2243 284.59998 288.13171 291.66342 293.40057 296.93228 298.30795 299.68359"
+                 y="-602.23145"
+                 sodipodi:role="line"
+                 id="tspan273"
+                 style="stroke-width:1.14806">Blatta orientalis</tspan><tspan
+                 x="261.02173 264.94724 268.479 270.66733 272.04233 275.57404 276.94971 280.48145 284.01315 287.54489 289.28204 292.81381 294.55026 298.08197 300.27039 303.80212 307.33383 310.86557 314.39734"
+                 y="-595.56378"
+                 sodipodi:role="line"
+                 id="tspan275"
+                 style="stroke-width:1.14806">Periplaneta brunnea</tspan><tspan
+                 x="262.43869 266.36417 269.89594 272.08429 273.45929 276.991 278.36667 281.89841 285.43011 288.96185 290.69901 294.23074 295.96722 299.49893 303.03067 306.2009 307.93805 309.96506 313.4968 314.87244 318.40417 321.57437 322.95004 326.48178"
+                 y="-588.89594"
+                 sodipodi:role="line"
+                 id="tspan277"
+                 style="stroke-width:1.14806">Periplaneta australasiae</tspan><tspan
+                 x="263.85565 267.78113 271.3129 273.50125 274.87625 278.40796 279.7836 283.31537 286.84708 290.37881 292.11597 295.64771 297.38419 299.12131 302.65308 304.02869 305.40436 308.93607 310.31171 313.84341 317.37518 320.54541"
+                 y="-582.22827"
+                 sodipodi:role="line"
+                 id="tspan279"
+                 style="stroke-width:1.14806">Periplaneta fuliginosa</tspan></text>
+            <path
+               d="m 405.58877,605.93728 h -9.98786 m 9.98786,-6.99013 h -6.99138 m 6.99138,-5.99297 h -2.99648 m 2.99648,-6.49154 h -2.99648 m 0,3.49506 h -3.9949 m 3.9949,2.99648 v -5.99172 m -3.9949,7.48997 h -2.99648 m 2.99648,4.49472 v -8.98945 m -2.99648,9.98786 h -15.97958 m 15.97958,5.99172 v -10.98503 m 9.98786,-14.98116 h -2.99648 m 2.99648,-5.99296 h -2.99648 m 0,2.99648 h -9.98786 m 9.98786,2.99648 v -5.99296 m 2.99648,-5.99173 h -6.99138 m 6.99138,-6.25648 h -2.99648 m 2.99648,-6.72785 h -2.99648 m 0,2.99648 h -3.9949 m 3.9949,3.73137 v -6.72785 m -4.20027,7.98978 h -5.78759 m 5.83212,4.99455 v -9.98785 m -5.83212,11.98468 h -12.9831 m 12.9831,6.99138 v -13.98276 m -12.9831,21.97255 h -3.99365 m 3.99365,14.98116 v -29.96233 m -3.99365,28.96392 H 362.6421 m 12.98558,12.98309 V 584.9644 m -12.98558,29.96232 h -62.91989 m 62.91989,16.97799 v -32.95756"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path283" />
+            <path
+               d="M 405.58877,549.00911 H 346.66254"
+               style="fill:none;stroke:#ed1c24;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path285" />
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text297"
+               x="265.27722"
+               y="-575.54913"><tspan
+                 x="265.27722 269.88052 272.16635 275.33661 278.86832 280.60547 284.13718 287.30743 290.83914 292.93134 296.10159 299.6333 302.80359 306.27783 309.80957 313.34131 316.87308 320.04327 321.78043 325.31213 326.68777 330.21951 331.95667 335.4884"
+                 y="-575.54913"
+                 sodipodi:role="line"
+                 id="tspan287"
+                 style="stroke-width:1.14806">Cryptocercus punctulatus</tspan><tspan
+                 x="266.68576 272.00565 275.53738 278.70758 280.44476 283.97647 285.71359 289.24536 291.49829 296.81812 300.34988 303.52011 305.25659 308.78836 312.32007 314.41226 319.01556 320.39124 323.92294 325.29858 328.83032 332.36206 335.53229 336.9079"
+                 y="-568.92401"
+                 sodipodi:role="line"
+                 id="tspan289"
+                 style="stroke-width:1.14806">Mastotermes darwiniensis</tspan><tspan
+                 x="268.0943 273.41418 274.78983 277.96005 280.05225 283.58398 287.11572 290.64743 294.1792 297.71091 299.44803 302.9798 305.23273 310.55261 314.08432 317.25458 318.99106 322.16129 323.53693 327.06863 328.80579 332.33752"
+                 y="-562.29889"
+                 sodipodi:role="line"
+                 id="tspan291"
+                 style="stroke-width:1.14806">Microhodotermes viator</tspan><tspan
+                 x="269.5029 273.42902 276.9614 279.05359 282.58533 284.32248 287.85419 290.10779 295.42764 298.95938 302.12961 303.86676 307.3985 310.93021 314.46198 317.99368 320.18271 321.55832 324.72861 328.26031 329.63596 331.0116 332.38724"
+                 y="-555.67377"
+                 sodipodi:role="line"
+                 id="tspan293"
+                 style="stroke-width:1.14806">Porotermes quadricollis</tspan><tspan
+                 x="270.91144 275.15973 276.53534 278.27252 279.64816 283.17987 284.55551 286.29266 289.82437 292.07797 297.39783 300.92957 304.09979"
+                 y="-549.04858"
+                 sodipodi:role="line"
+                 id="tspan295"
+                 style="stroke-width:1.14806">Bifiditermes</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text301"
+               x="422.53839"
+               y="-549.04755"><tspan
+                 x="422.53839 425.70862 429.01511"
+                 y="-549.04755"
+                 sodipodi:role="line"
+                 id="tspan299"
+                 style="stroke-width:1.17371">sp.</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text321"
+               x="272.31879"
+               y="-542.42218"><tspan
+                 x="272.31879 276.92209 279.20734 282.37756 285.90927 287.64642 291.17816 292.91531 296.44705 298.69995 304.01984 307.55157 310.7218 312.45828 315.62854 319.16025 322.33051 325.86221 329.39392 332.92569 336.45743"
+                 y="-542.42218"
+                 sodipodi:role="line"
+                 id="tspan303"
+                 style="stroke-width:1.14806">Cryptotermes secundus</tspan><tspan
+                 x="273.72739 278.33069 281.8624 285.39413 287.13129 290.66302 292.40018 295.93188 298.18478 303.5047 307.03641 310.20663 311.94315 315.47488 318.64511 320.02075 323.55249 327.0842 330.25446 331.6301 333.17294 336.70465 338.95758 344.27747 345.65308"
+                 y="-535.79639"
+                 sodipodi:role="line"
+                 id="tspan305"
+                 style="stroke-width:1.14806">Coptotermes acinaciformis</tspan><tspan
+                 x="275.13589 279.38419 282.55444 286.08615 291.40604 296.72592 300.25766 301.99478 305.52652 307.77945 313.0993 316.63104 319.80127 321.53778 325.06952 326.44513 327.8208 331.35251 334.52274 338.05447 340.24286 343.7746"
+                 y="-529.1712"
+                 sodipodi:role="line"
+                 id="tspan307"
+                 style="stroke-width:1.14806">Psammotermes allocerus</tspan><tspan
+                 x="276.54446 280.79279 283.96301 287.49472 291.02646 294.55817 298.08994 300.1821 303.71384 305.08948 308.62119 312.15295 313.89011 317.42181 319.67471 324.9946 328.52634 331.69656 333.43307 334.80872 338.34045 343.66034 345.03595 348.56769 349.94333 353.47507 356.94223 360.474"
+                 y="-522.54608"
+                 sodipodi:role="line"
+                 id="tspan309"
+                 style="stroke-width:1.14806">Schedorhinotermes laminianus</tspan><tspan
+                 x="277.95303 283.27292 286.80466 289.97485 292.06705 295.59879 297.33597 300.86768 303.12057 308.44046 311.9722 315.14243 316.87894 318.25455 321.26279 324.79449 326.88669 330.4184 333.95016 337.12039 338.49603"
+                 y="-515.92096"
+                 sodipodi:role="line"
+                 id="tspan311"
+                 style="stroke-width:1.14806">Macrotermes ivorensis</tspan><tspan
+                 x="279.3616 283.60986 286.78009 290.31186 293.8436 297.37531 300.90704 304.07727 307.60904 311.14075 312.8779 316.40961 319.94138 321.6785 325.21024 327.46317 332.78302 336.31476 339.48499 341.2215 346.54135 347.91699 349.2926 350.66827 352.40543 355.93716 358.12552 359.50052"
+                 y="-509.29581"
+                 sodipodi:role="line"
+                 id="tspan313"
+                 style="stroke-width:1.14806">Pseudacanthotermes militaris</tspan><tspan
+                 x="280.77017 284.46326 287.99503 290.02203 293.55374 298.8736 300.24924 303.78098 305.15665 306.89374 310.42551 312.67844 317.99826 321.53006 324.70026 326.43674 329.44495 332.97668 334.35233 337.88406 341.4158"
+                 y="-502.67001"
+                 sodipodi:role="line"
+                 id="tspan315"
+                 style="stroke-width:1.14806">Foraminitermes valens</tspan><tspan
+                 x="282.17874 286.427 289.95874 293.49048 295.67883 297.05447 298.79163 302.32336 304.06052 307.59222 309.84515 315.16504 318.69675 321.867 323.60349 325.1463 328.67807 331.84827 335.01852 338.55023"
+                 y="-496.04486"
+                 sodipodi:role="line"
+                 id="tspan317"
+                 style="stroke-width:1.14806">Aderitotermes fossor</tspan><tspan
+                 x="283.58731 287.83557 291.36728 294.89902 298.43079 299.8064 303.3381 305.07529 308.60703 310.85992 316.17981 319.71152 322.88177 324.61826 328.08484 330.37 333.90173"
+                 y="-489.41907"
+                 sodipodi:role="line"
+                 id="tspan319"
+                 style="stroke-width:1.14806">Anoplotermes grp</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text325"
+               x="439.66605"
+               y="-489.41888"><tspan
+                 x="439.66605 442.83627 446.14267 447.49255 449.22964"
+                 y="-489.41888"
+                 sodipodi:role="line"
+                 id="tspan323"
+                 style="stroke-width:1.17371">sp. J</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text345"
+               x="284.99365"
+               y="-482.79355"><tspan
+                 x="284.99365 289.24194 294.56183 295.93744 297.67459 301.20633 303.45926 308.77914 312.31085 315.48108 317.21759 320.74933 324.28104 326.01819 329.54993 331.64212 335.17386 338.70557 342.2373 345.76904 347.50616 351.0379 354.56967"
+                 y="-482.79355"
+                 sodipodi:role="line"
+                 id="tspan327"
+                 style="stroke-width:1.14806">Amitermes heterognathus</tspan><tspan
+                 x="286.40222 289.51437 293.04611 295.29904 300.6189 304.1506 307.32086 309.05737 310.60022 314.13193 315.86905 319.40079 320.77643 322.15207"
+                 y="-476.16843"
+                 sodipodi:role="line"
+                 id="tspan329"
+                 style="stroke-width:1.14806">Termes fatalis</tspan><tspan
+                 x="287.81079 293.13068 294.50629 297.67651 299.76871 303.30045 306.47067 310.00241 312.09457 315.62634 317.36346 320.89517 323.14813 328.46799 331.99973 335.16998 336.90646 340.4382 343.84082 348.44412 353.76401 357.29575 360.82748"
+                 y="-469.54263"
+                 sodipodi:role="line"
+                 id="tspan331"
+                 style="stroke-width:1.14806">Microcerotermes newmani</tspan><tspan
+                 x="289.21936 293.82269 297.35443 300.52466 304.05637 305.79352 307.16916 308.90631 312.43802 314.69095 320.01083 323.54254 326.71277 328.44931 331.61951 332.99515 338.31503 339.69067 341.06631 342.44196"
+                 y="-462.91748"
+                 sodipodi:role="line"
+                 id="tspan333"
+                 style="stroke-width:1.14806">Nasutitermes similis</tspan><tspan
+                 x="290.62793 293.74005 297.27176 302.5271 306.05881 307.43448 308.81009 310.54724 314.07898 316.33188 321.65179 325.1835 328.35373 330.09024 334.629 338.16074 341.33096 343.06812 345.09506 348.62686 350.00247 351.37811 354.90985 358.44156 361.61182 362.98746"
+                 y="-456.29236"
+                 sodipodi:role="line"
+                 id="tspan335"
+                 style="stroke-width:1.14806">Tumulitermes westraliensis</tspan><tspan
+                 x="292.03647 296.28476 299.45499 301.19214 304.72385 308.25558 309.63126 313.16296 316.33319 318.0697 321.60141 325.13315 328.66492 331.73828 335.27002 337.4584"
+                 y="-449.66721"
+                 sodipodi:role="line"
+                 id="tspan337"
+                 style="stroke-width:1.14806">Ectobius panzeri</tspan><tspan
+                 x="293.44504 297.6933 300.86356 302.60068 306.13242 309.66412 311.03979 314.57153 317.74176 319.47824 320.85388 324.38559 327.91739 331.4491 334.98083 338.51254 339.88821 343.05841 346.59018"
+                 y="-443.04141"
+                 sodipodi:role="line"
+                 id="tspan339"
+                 style="stroke-width:1.14806">Ectobius lapponicus</tspan><tspan
+                 x="294.85358 299.1019 302.27209 304.00928 307.54099 311.07272 312.44836 315.9801 319.1503 320.88684 324.41855 327.95029 329.32593 330.70157 332.07721 335.60892 339.14069"
+                 y="-436.41626"
+                 sodipodi:role="line"
+                 id="tspan341"
+                 style="stroke-width:1.14806">Ectobius pallidus</tspan><tspan
+                 x="296.26215 300.86548 304.39722 307.92892 311.33157 312.70721 316.23892 317.97607 319.71323 323.24496 324.62057 325.99625 329.52798"
+                 y="-429.79114"
+                 sodipodi:role="line"
+                 id="tspan343"
+                 style="stroke-width:1.14806">Neoblattella</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text349"
+               x="422.61588"
+               y="-429.79028"><tspan
+                 x="422.61588 425.78613 429.09131 430.44043 432.17697"
+                 y="-429.79028"
+                 sodipodi:role="line"
+                 id="tspan347"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text353"
+               x="297.66855"
+               y="-423.16486"><tspan
+                 x="297.66855 301.20026 304.73206 306.46918 307.84479 311.24741 312.62308 316.15482 317.89194 319.62906 323.16083 324.53644 325.91208 329.44385"
+                 y="-423.16486"
+                 sodipodi:role="line"
+                 id="tspan351"
+                 style="stroke-width:1.14806">Latiblattella</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text357"
+               x="421.1246"
+               y="-423.16486"><tspan
+                 x="421.1246 424.2948 427.60123 428.95108 430.68823"
+                 y="-423.16486"
+                 sodipodi:role="line"
+                 id="tspan355"
+                 style="stroke-width:1.17371">sp. 3</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text363"
+               x="299.07687"
+               y="-416.53943"><tspan
+                 x="299.07687 303.32516 306.85687 308.23254 309.9697 313.5014 315.23853 318.40878 319.95227 321.30209 323.03922 326.20944 327.58508 332.90497 334.28061 335.65622 337.03189"
+                 y="-416.53943"
+                 sodipodi:role="line"
+                 id="tspan359"
+                 style="stroke-width:1.14806">Balta cf. similis</tspan><tspan
+                 x="300.48547 304.7337 308.26544 310.00262 313.53433 314.90997 318.44171 321.61194 323.34909 326.88083 330.28342 331.65842 335.19019 336.92731 338.66443 342.1962"
+                 y="-409.91364"
+                 sodipodi:role="line"
+                 id="tspan361"
+                 style="stroke-width:1.14806">Euthlastoblatta</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text367"
+               x="431.06018"
+               y="-409.914"><tspan
+                 x="431.06018 434.23047 437.53625 438.88541 440.62192"
+                 y="-409.914"
+                 sodipodi:role="line"
+                 id="tspan365"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text371"
+               x="301.89355"
+               y="-403.28857"><tspan
+                 x="301.89355 306.14182 309.67352 311.41068 314.94241 316.31805 319.84979 323.02002 324.75717 328.28888 331.6915 333.0665 336.59824 338.33542 340.07257 343.60428"
+                 y="-403.28857"
+                 sodipodi:role="line"
+                 id="tspan369"
+                 style="stroke-width:1.14806">Euthlastoblatta</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text375"
+               x="431.06018"
+               y="-403.28857"><tspan
+                 x="431.06018 434.23047 437.53625 438.88541 440.62192"
+                 y="-403.28857"
+                 sodipodi:role="line"
+                 id="tspan373"
+                 style="stroke-width:1.17371">sp. 2</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text379"
+               x="303.30185"
+               y="-396.66315"><tspan
+                 x="303.30185 307.90518 311.07544 314.24564 315.98282 317.35843 320.89014 324.42191 326.44888 329.98062"
+                 y="-396.66315"
+                 sodipodi:role="line"
+                 id="tspan377"
+                 style="stroke-width:1.14806">Nyctibora</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text383"
+               x="416.03073"
+               y="-396.66315"><tspan
+                 x="416.03073 419.20093 422.50674 423.8559 425.59241"
+                 y="-396.66315"
+                 sodipodi:role="line"
+                 id="tspan381"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text389"
+               x="304.71021"
+               y="-390.03772"><tspan
+                 x="304.71021 309.31351 312.48373 315.65399 317.39111 318.76675 322.29849 325.83023 327.85721 331.38895 333.12546 336.65717 339.82739 343.35913 346.52939 347.905 351.43674 354.96844"
+                 y="-390.03772"
+                 sodipodi:role="line"
+                 id="tspan385"
+                 style="stroke-width:1.14806">Nyctibora acaciana</tspan><tspan
+                 x="306.11874 310.10944 313.64185 315.66943 319.20181 320.93896 323.03116 326.56293 330.09464 333.6264 336.79663"
+                 y="-383.41257"
+                 sodipodi:role="line"
+                 id="tspan387"
+                 style="stroke-width:1.14806">Paratropes</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text393"
+               x="420.02692"
+               y="-383.41229"><tspan
+                 x="420.02692 423.19717 426.50229 427.85144 429.58795"
+                 y="-383.41229"
+                 sodipodi:role="line"
+                 id="tspan391"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text397"
+               x="307.52679"
+               y="-376.78699"><tspan
+                 x="307.52679 310.63892 314.17065 319.49054 323.02228 326.55402 330.08575 331.82288 335.35464 337.63983 340.81003 343.98029"
+                 y="-376.78699"
+                 sodipodi:role="line"
+                 id="tspan395"
+                 style="stroke-width:1.14806">Temnopteryx</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text401"
+               x="425.80508"
+               y="-376.78699"><tspan
+                 x="425.80508 428.97528 432.28171 433.63156 435.36868"
+                 y="-376.78699"
+                 sodipodi:role="line"
+                 id="tspan399"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text413"
+               x="308.93512"
+               y="-370.16156"><tspan
+                 x="308.93512 313.18341 316.35364 321.67352 325.20526 326.58087 330.11264 333.28287 336.81461 338.55109 342.08279 345.61456 346.9902 348.36581 351.89755 355.42929"
+                 y="-370.16156"
+                 sodipodi:role="line"
+                 id="tspan403"
+                 style="stroke-width:1.14806">Symploce pallens</tspan><tspan
+                 x="310.34369 314.33374 317.86548 319.89249 323.42419 325.16135 328.69305 334.01297 337.54468 341.07642 344.60815 346.34531 349.87704 352.16223 355.33246 358.50269 360.2392 363.40942 366.94113 370.47287 371.84854 375.38025 378.91199 380.28766 383.81937 387.3511"
+                 y="-363.53641"
+                 sodipodi:role="line"
+                 id="tspan405"
+                 style="stroke-width:1.14806">Paratemnopteryx couloniana</tspan><tspan
+                 x="311.75226 316.00052 317.37616 320.9079 322.64505 324.3822 327.91394 329.28955 330.66519 334.19693 335.93344 339.46515 342.99689 345.24982 350.56967 354.10144 357.63318 359.00879 362.17902"
+                 y="-356.91061"
+                 sodipodi:role="line"
+                 id="tspan407"
+                 style="stroke-width:1.14806">Blattella germanica</tspan><tspan
+                 x="313.1608 316.69257 320.2243 323.75601 327.28775 330.81946 332.55661 336.08838 338.11536 341.64706 343.38358 346.91531 350.44702 353.61725 354.99292 358.52463 359.9003 363.43201 366.96375"
+                 y="-350.28546"
+                 sodipodi:role="line"
+                 id="tspan409"
+                 style="stroke-width:1.14806">Loboptera decipiens</tspan><tspan
+                 x="314.5694 316.30652 319.47678 322.647 326.17874 329.71045 333.24219 336.77393 338.51105 342.04276 344.06976 347.60153"
+                 y="-343.65967"
+                 sodipodi:role="line"
+                 id="tspan411"
+                 style="stroke-width:1.14806">Ischnoptera</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text417"
+               x="422.38339"
+               y="-343.65985"><tspan
+                 x="422.38339 425.55359 428.86005 430.20987 431.94702"
+                 y="-343.65985"
+                 sodipodi:role="line"
+                 id="tspan415"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text421"
+               x="315.97675"
+               y="-337.03442"><tspan
+                 x="315.97675 317.7139 320.88416 324.05435 327.58609 331.11783 334.64957 338.1813 339.91843 343.45016 345.47714 349.00891"
+                 y="-337.03442"
+                 sodipodi:role="line"
+                 id="tspan419"
+                 style="stroke-width:1.14806">Ischnoptera</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text425"
+               x="422.38339"
+               y="-337.03442"><tspan
+                 x="422.38339 425.55359 428.86005 430.20987 431.94702"
+                 y="-337.03442"
+                 sodipodi:role="line"
+                 id="tspan423"
+                 style="stroke-width:1.17371">sp. 3</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text429"
+               x="317.3851"
+               y="-330.40903"><tspan
+                 x="317.3851 319.12222 322.29245 325.46265 328.99445 332.52615 336.05789 339.5896 341.32675 344.85849 346.8855 350.41721"
+                 y="-330.40903"
+                 sodipodi:role="line"
+                 id="tspan427"
+                 style="stroke-width:1.14806">Ischnoptera</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text433"
+               x="422.38339"
+               y="-330.40903"><tspan
+                 x="422.38339 425.55359 428.86005 430.20987 431.94702"
+                 y="-330.40903"
+                 sodipodi:role="line"
+                 id="tspan431"
+                 style="stroke-width:1.17371">sp. 2</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text437"
+               x="318.79337"
+               y="-323.78372"><tspan
+                 x="318.79337 323.04166 326.57339 329.74362 331.48077 335.01251 338.41513 339.79077 343.32248 345.05966 346.79678 350.32849"
+                 y="-323.78372"
+                 sodipodi:role="line"
+                 id="tspan435"
+                 style="stroke-width:1.14806">Xestoblatta</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text441"
+               x="420.88559"
+               y="-323.78372"><tspan
+                 x="420.88559 424.05588 427.36227 428.7121 430.44922"
+                 y="-323.78372"
+                 sodipodi:role="line"
+                 id="tspan439"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text447"
+               x="320.20172"
+               y="-317.15826"><tspan
+                 x="320.20172 324.44998 327.62021 331.15192 334.68372 338.21542 341.74716 347.06702 350.59875 354.13049 357.30072 359.0372 362.56894 365.97159 367.34723 370.87894 374.41068 377.94241 381.47415 383.2113"
+                 y="-317.15826"
+                 sodipodi:role="line"
+                 id="tspan443"
+                 style="stroke-width:1.14806">Pseudomops oblongata</tspan><tspan
+                 x="321.61029 325.85855 329.02878 332.56052 336.09225 339.62399 343.1557 348.47559 352.00732 355.53903 358.70929"
+                 y="-310.53314"
+                 sodipodi:role="line"
+                 id="tspan445"
+                 style="stroke-width:1.14806">Pseudomops</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text451"
+               x="426.45062"
+               y="-310.53287"><tspan
+                 x="426.45062 429.62082 432.92667 434.27643 436.01355"
+                 y="-310.53287"
+                 sodipodi:role="line"
+                 id="tspan449"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text455"
+               x="323.01834"
+               y="-303.90741"><tspan
+                 x="323.01834 327.26663 330.43686 333.96863 337.50034 341.03207 344.56378 349.88367 353.41541 356.94711 360.11737"
+                 y="-303.90741"
+                 sodipodi:role="line"
+                 id="tspan453"
+                 style="stroke-width:1.14806">Pseudomops</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text459"
+               x="426.45062"
+               y="-303.90741"><tspan
+                 x="426.45062 429.62082 432.92667 434.27643 436.01355"
+                 y="-303.90741"
+                 sodipodi:role="line"
+                 id="tspan457"
+                 style="stroke-width:1.17371">sp. 2</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text469"
+               x="324.42667"
+               y="-297.28201"><tspan
+                 x="324.42667 329.03003 332.56174 336.09348 339.2637 342.4339 345.9657 349.49741 353.02914 354.76627 358.298 361.82971 365.36148 368.89322 370.26883 373.80057 375.53708 377.27423 378.64987 381.98795 385.15817 386.53378 389.70401 391.07965 392.81677 394.55392"
+                 y="-297.28201"
+                 sodipodi:role="line"
+                 id="tspan461"
+                 style="stroke-width:1.14806">Henschoutedenia flexivitta</tspan><tspan
+                 x="325.83524 330.43857 333.97031 337.50201 341.03375 344.56552 348.09723 351.62897 353.36612 356.89783 358.63434 361.8046 363.18018 366.71194 370.24368 372.33585 375.86761"
+                 y="-290.65619"
+                 sodipodi:role="line"
+                 id="tspan463"
+                 style="stroke-width:1.14806">Nauphoeta cinerea</tspan><tspan
+                 x="327.2438 331.84714 335.18457 338.35477 341.88651 345.41827 347.51044 351.04218 354.57391 355.94955 359.48126 361.21774 366.53766 370.06937 373.6011 377.13284 379.15982 382.69156"
+                 y="-284.03107"
+                 sodipodi:role="line"
+                 id="tspan465"
+                 style="stroke-width:1.14806">Rhyparobia maderae</tspan><tspan
+                 x="328.65237 332.90063 334.92761 338.45935 341.62961 344.96768 348.13791 351.66962 355.20139 358.73309 362.26483 365.79654 369.32831 372.86005 374.59717 378.12888 379.86539 381.40823 384.93994 388.47171 389.84735 393.37903 396.91083 398.28647 401.81815 403.5553 407.08704 410.6188 414.15051 417.32077"
+                 y="-277.40591"
+                 sodipodi:role="line"
+                 id="tspan467"
+                 style="stroke-width:1.14806">Brachynauphoeta foulpointeensi</tspan></text>
+            <g
+               id="g471"
+               transform="matrix(1.2371924,0,0,1.2371924,-97.133221,-144.80095)">
+              <g
+                 id="g473"
+                 clip-path="url(#clipPath477)">
+                <text
+                   transform="matrix(0.97814619,0,-0.20791831,-0.88033157,485.4731,329.7557)"
+                   style="font-variant:normal;font-weight:normal;font-size:5.62288px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text481"><tspan
+                     x="0"
+                     y="0"
+                     id="tspan479">s</tspan></text>
+              </g>
+            </g>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text485"
+               x="330.05994"
+               y="-270.78043"><tspan
+                 x="330.05994 334.66327 338.19501 343.51489 344.89053 348.42227 351.95398 355.48572 359.01743 362.54916 366.08093 369.61267 371.34982 374.88153"
+                 y="-270.78043"
+                 sodipodi:role="line"
+                 id="tspan483"
+                 style="stroke-width:1.14806">Heminauphoeta</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text489"
+               x="434.17194"
+               y="-270.78043"><tspan
+                 x="434.17194 437.34213 440.64798 441.99713 443.73361"
+                 y="-270.78043"
+                 sodipodi:role="line"
+                 id="tspan487"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text503"
+               x="331.46826"
+               y="-264.155"><tspan
+                 x="331.46826 335 338.53171 342.06351 345.13687 348.66861 352.20035 355.73206 357.46924 361.00095 364.53268 366.55966 370.0914 371.82791 377.14777 380.67953 383.84973 385.22537 390.54526"
+                 y="-264.155"
+                 sodipodi:role="line"
+                 id="tspan491"
+                 style="stroke-width:1.14806">Leozehntnera maxima</tspan><tspan
+                 x="332.87683 337.12512 338.50076 339.87637 341.25204 344.78375 346.5209 350.05264 352.14484 355.67657 357.05219 360.58389 364.11569 365.85214 369.0224 372.55414 376.08585 379.61761 383.14929 385.24149 388.77325"
+                 y="-257.52982"
+                 sodipodi:role="line"
+                 id="tspan493"
+                 style="stroke-width:1.14806">Elliptorhina chopardi</tspan><tspan
+                 x="334.2854 338.53366 342.0654 343.44104 346.97278 349.06497 352.59671 356.12845 359.66016 363.19193 366.72363 368.46014 369.83575 373.36749 376.53772 377.91339 381.4451 384.97684 386.35245"
+                 y="-250.90471"
+                 sodipodi:role="line"
+                 id="tspan495"
+                 style="stroke-width:1.14806">Aeluropoda insignis</tspan><tspan
+                 x="335.69397 340.65878 342.75098 346.28268 351.6026 355.13431 358.66605 362.19775 365.72949 369.26126 371.35345 374.88516 376.26077 379.79254 383.32428 385.06079 388.5925 391.99515 393.37076 396.9025 400.43423 403.96594 407.49771 411.02942 414.56116 416.29831"
+                 y="-244.27956"
+                 sodipodi:role="line"
+                 id="tspan497"
+                 style="stroke-width:1.14806">Gromphadorhina oblongonota</tspan><tspan
+                 x="337.10251 341.3508 343.53918 344.91483 348.44656 351.61676 352.9924 356.16266 357.53827 361.07004 362.80652 365.81473 369.34647 372.87817 377.38467 380.91641 384.44818 386.54034 390.07205 393.60382 397.1355 400.30576"
+                 y="-237.65439"
+                 sodipodi:role="line"
+                 id="tspan499"
+                 style="stroke-width:1.14806">Princisia vanwaerebeki</tspan><tspan
+                 x="338.51108 342.50116 346.03287 349.56458 352.73486 356.26657 357.64221 361.17398 363.20093 366.73267"
+                 y="-231.02927"
+                 sodipodi:role="line"
+                 id="tspan501"
+                 style="stroke-width:1.14806">Panchlora</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text507"
+               x="417.57364"
+               y="-231.02812"><tspan
+                 x="417.57364 420.7439 424.05035 425.40012 427.13727"
+                 y="-231.02812"
+                 sodipodi:role="line"
+                 id="tspan505"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text521"
+               x="339.91818"
+               y="-224.40269"><tspan
+                 x="339.91818 343.90823 347.43997 350.97168 354.14194 357.67368 359.04929 362.58102 364.60803 368.13974 369.87622 373.40799 376.57819 378.31534 381.84711 385.0173"
+                 y="-224.40269"
+                 sodipodi:role="line"
+                 id="tspan509"
+                 style="stroke-width:1.14806">Panchlora azteca</tspan><tspan
+                 x="341.32672 346.29156 349.46182 352.99353 356.52524 358.26175 359.63736 363.16913 365.35751 366.73248 370.26422"
+                 y="-217.77754"
+                 sodipodi:role="line"
+                 id="tspan511"
+                 style="stroke-width:1.14806">Gyna lurida</tspan><tspan
+                 x="342.73532 347.33862 348.71426 352.246 353.62164 357.15338 360.68509 362.42224 365.95398 367.98096 371.51266 373.24921 376.78091 380.31265 383.84436 387.01462 388.75177 392.28348 394.02063"
+                 y="-211.1524"
+                 sodipodi:role="line"
+                 id="tspan513"
+                 style="stroke-width:1.14806">Diploptera punctata</tspan><tspan
+                 x="344.14386 348.39215 351.56235 354.7326 358.26431 361.79608 364.96631 368.13654 371.66827 373.04391 376.57565 379.74585 381.48239 384.65259 388.18433 390.37268 391.74771 395.27942 398.81116 404.13104 407.66275 411.19449 414.36472 415.74039"
+                 y="-204.52725"
+                 sodipodi:role="line"
+                 id="tspan515"
+                 style="stroke-width:1.14806">Pycnoscelus surinamensis</tspan><tspan
+                 x="345.55243 349.80069 353.33243 355.06958 358.60129 360.6283 364.16003 365.89651 367.63367 371.16541 374.33563 377.50586"
+                 y="-197.9021"
+                 sodipodi:role="line"
+                 id="tspan517"
+                 style="stroke-width:1.14806">Aptera fusca</tspan><tspan
+                 x="346.96097 351.92581 355.45752 358.92474 362.45645 365.62668"
+                 y="-191.27695"
+                 sodipodi:role="line"
+                 id="tspan519"
+                 style="stroke-width:1.14806">Genus</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text525"
+               x="408.01892"
+               y="-191.27568"><tspan
+                 x="408.01892 411.5506"
+                 y="-191.27568"
+                 sodipodi:role="line"
+                 id="tspan523"
+                 style="stroke-width:1.17371">nr</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text529"
+               x="374.72021"
+               y="-191.27568"><tspan
+                 x="374.72021 378.96848 382.50021 386.03192 387.76907 391.30081 394.83258"
+                 y="-191.27568"
+                 sodipodi:role="line"
+                 id="tspan527"
+                 style="stroke-width:1.14806">Bantua</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text533"
+               x="437.22568"
+               y="-191.27568"><tspan
+                 x="437.22568 440.39594 443.70172 445.05087 446.78741"
+                 y="-191.27568"
+                 sodipodi:role="line"
+                 id="tspan531"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text537"
+               x="348.36807"
+               y="-184.65039"><tspan
+                 x="348.36807 352.29358 355.82529 358.01367 359.38934 362.55954 366.09125 369.62305 373.15475 376.68649 378.87488 380.25052 381.6261 385.15787 388.68964 392.22134"
+                 y="-184.65039"
+                 sodipodi:role="line"
+                 id="tspan535"
+                 style="stroke-width:1.14806">Perisphaeriinae</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text541"
+               x="433.20364"
+               y="-184.65039"><tspan
+                 x="433.20364 436.37387 439.67905 441.0282 442.76471"
+                 y="-184.65039"
+                 sodipodi:role="line"
+                 id="tspan539"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text545"
+               x="349.7764"
+               y="-178.02496"><tspan
+                 x="349.7764 353.7019 357.23361 359.422 360.79767 363.96786 367.49963 371.03134 374.56308 378.09479 380.28317 383.81491 386.98514"
+                 y="-178.02496"
+                 sodipodi:role="line"
+                 id="tspan543"
+                 style="stroke-width:1.14806">Perisphaerus</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text549"
+               x="426.56046"
+               y="-178.02496"><tspan
+                 x="426.56046 429.73068 433.03711 434.38693 436.12408"
+                 y="-178.02496"
+                 sodipodi:role="line"
+                 id="tspan547"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text553"
+               x="351.18472"
+               y="-171.39952"><tspan
+                 x="351.18472 355.43298 358.60324 362.13495 365.66669 369.19839 372.73019 376.2619 379.79361 383.32535 385.35236 388.88406 392.05435 395.58606 396.96167 400.1319"
+                 y="-171.39952"
+                 sodipodi:role="line"
+                 id="tspan551"
+                 style="stroke-width:1.14806">Pseudophoraspis</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text557"
+               x="438.29739"
+               y="-171.39952"><tspan
+                 x="438.29739 441.8291"
+                 y="-171.39952"
+                 sodipodi:role="line"
+                 id="tspan555"
+                 style="stroke-width:1.17371">nr</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text569"
+               x="409.22369"
+               y="-171.39952"><tspan
+                 x="409.22369 412.75537 416.28714 419.68973 423.2215 424.59714 428.12885 431.2991"
+                 y="-171.39952"
+                 sodipodi:role="line"
+                 id="tspan559"
+                 style="stroke-width:1.14806">nebulosa</tspan><tspan
+                 x="352.59262 357.19595 360.72769 362.10336 365.63507 367.01068 370.54242 375.8623 379.39404 381.42099 384.95276 386.68927 388.06488 390.15704 392.24924 395.78098 397.80798 401.33969 403.07684"
+                 y="-164.77438"
+                 sodipodi:role="line"
+                 id="tspan561"
+                 style="stroke-width:1.14806">Calolampra irrorata</tspan><tspan
+                 x="354.00119 358.96603 362.49774 363.87341 367.04364 368.78073 372.3125 375.84424 379.37595 380.75159 384.28336 386.02048 387.39615 390.92783 392.66498 396.19672 398.38577 399.76135 403.29312 406.82486 408.56201 412.09372 413.46933 414.845"
+                 y="-158.14923"
+                 sodipodi:role="line"
+                 id="tspan563"
+                 style="stroke-width:1.14806">Opisthoplatia orientalis</tspan><tspan
+                 x="355.40973 360.72964 364.26135 367.43161 369.5238 373.05551 376.58722 380.11896 383.65073 387.18243 390.35269 392.08984 395.62155 396.99716 400.52896 402.26538 404.35757 407.88931 409.26498 412.79669 416.32843 419.49866 423.0304 425.12259 428.65433"
+                 y="-151.52409"
+                 sodipodi:role="line"
+                 id="tspan565"
+                 style="stroke-width:1.14806">Macropanesthia rhinoceros</tspan><tspan
+                 x="356.81833 360.80841 364.34012 367.87186 371.40356 374.57379 376.31094 379.84271 381.21832 384.75006"
+                 y="-144.89894"
+                 sodipodi:role="line"
+                 id="tspan567"
+                 style="stroke-width:1.14806">Panesthia</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text573"
+               x="417.28314"
+               y="-144.89795"><tspan
+                 x="417.28314 420.4534 423.75986 425.10968 426.8468"
+                 y="-144.89795"
+                 sodipodi:role="line"
+                 id="tspan571"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text583"
+               x="358.22629"
+               y="-138.27266"><tspan
+                 x="358.22629 362.21701 365.74872 369.28046 372.81216 375.98242 377.71957 381.25128 382.62695 386.15869 387.89584 391.06604 393.2551 394.63068 398.16241 400.19006 403.72244 405.45959"
+                 y="-138.27266"
+                 sodipodi:role="line"
+                 id="tspan575"
+                 style="stroke-width:1.14806">Panesthia cribrata</tspan><tspan
+                 x="359.63486 363.88312 365.25876 368.7905 372.3222 374.05936 375.435 378.60519 382.13699 383.87347 387.40521 390.93695 394.46866 395.84427"
+                 y="-131.64751"
+                 sodipodi:role="line"
+                 id="tspan577"
+                 style="stroke-width:1.14806">Blaptica dubia</tspan><tspan
+                 x="361.0434 365.29169 368.82343 372.22607 373.60165 377.13342 380.66516 384.19687 386.38528 389.91696 393.08722 394.8237 398.35544 401.88721 405.05743 406.79456 408.1702 411.34042 414.87216"
+                 y="-125.02235"
+                 sodipodi:role="line"
+                 id="tspan579"
+                 style="stroke-width:1.14806">Eublaberus posticus</tspan><tspan
+                 x="362.452 366.70026 368.07587 371.60764 375.13934 378.67108 380.85944 384.3912 387.5614"
+                 y="-118.39722"
+                 sodipodi:role="line"
+                 id="tspan581"
+                 style="stroke-width:1.14806">Blaberus</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text587"
+               x="414.46191"
+               y="-118.3965"><tspan
+                 x="414.46191 417.63214 420.93796 422.28711 424.02362"
+                 y="-118.3965"
+                 sodipodi:role="line"
+                 id="tspan585"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text595"
+               x="363.85956"
+               y="-111.77107"><tspan
+                 x="363.85956 368.10782 370.20001 373.37024 376.90198 378.27762 383.59753 387.12921 390.66098 394.19266 396.38168 397.75735 399.49451 403.02625 404.76337 406.50052 410.03223 413.20248 416.37268 419.90448 421.28006 422.6557 426.18747 427.92462"
+                 y="-111.77107"
+                 sodipodi:role="line"
+                 id="tspan589"
+                 style="stroke-width:1.14806">Archimandrita tessellata</tspan><tspan
+                 x="365.26813 369.51639 372.68661 374.77881 377.94904 381.48077 383.2179 385.40625 386.78128 390.31305 392.0495 393.78662 397.31839 402.63824 404.01392 407.54562 411.07736 412.81451"
+                 y="-105.14593"
+                 sodipodi:role="line"
+                 id="tspan591"
+                 style="stroke-width:1.14806">Byrsotria fumigata</tspan><tspan
+                 x="366.6767 371.28 374.81171 377.06467 382.38452 385.91629 387.65341 389.02908 392.19928 395.73102"
+                 y="-98.520775"
+                 sodipodi:role="line"
+                 id="tspan593"
+                 style="stroke-width:1.14806">Hormetica</tspan></text>
+            <text
+               transform="scale(1.0540926,-0.94868326)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45538px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17371"
+               id="text599"
+               x="418.40652"
+               y="-98.520218"><tspan
+                 x="418.40652 421.57672 424.88321 426.233 427.97015"
+                 y="-98.520218"
+                 sodipodi:role="line"
+                 id="tspan597"
+                 style="stroke-width:1.17371">sp. 1</tspan></text>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text609"
+               x="368.0845"
+               y="-91.894928"><tspan
+                 x="368.0845 371.61624 375.14798 378.31818 379.69385 383.22562 386.75729 389.01019 394.33008 397.86185 399.599 400.97461 404.14484 407.67661 409.41306 412.58331 416.11502 419.64679 422.81699 424.19263 427.7244 430.89462 432.63174"
+                 y="-91.894928"
+                 sodipodi:role="line"
+                 id="tspan601"
+                 style="stroke-width:1.14806">Lucihormetica subcincta</tspan><tspan
+                 x="369.49307 373.74133 377.27307 380.80478 383.15457 384.89166 386.26733 389.7991 393.33078 396.50107 400.03278 401.76926 405.30099 408.83273 412.36447 414.39145 417.92319 421.09341 424.62518 428.15689 429.5325 433.0643 436.59598"
+                 y="-85.269775"
+                 sodipodi:role="line"
+                 id="tspan603"
+                 style="stroke-width:1.14806">Phortioeca phoraspoides</tspan><tspan
+                 x="370.90161 375.1499 378.68161 382.21338 385.74506 387.48227 391.01395 392.38962 393.76526 397.29694 399.03348 402.56525 406.09695 407.47256 408.84824 410.22388 413.75555"
+                 y="-78.64463"
+                 sodipodi:role="line"
+                 id="tspan605"
+                 style="stroke-width:1.14806">Phoetalia pallida</tspan><tspan
+                 x="372.31018 376.55847 379.72873 383.26041 386.79218 388.16782 389.90494 393.43668 396.60693 397.98257 401.51425 403.25076 404.62643 408.15814"
+                 y="-72.019478"
+                 sodipodi:role="line"
+                 id="tspan607"
+                 style="stroke-width:1.14806">Schultesia lam</tspan></text>
+            <g
+               id="g611"
+               transform="matrix(1.2371924,0,0,1.2371924,-97.133221,-144.80095)">
+              <g
+                 id="g613"
+                 clip-path="url(#clipPath617)">
+                <text
+                   transform="matrix(0.97814619,0,-0.20791831,-0.88033157,443.8342,172.2641)"
+                   style="font-variant:normal;font-weight:normal;font-size:5.62288px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   id="text621"><tspan
+                     x="0 2.9075921"
+                     y="0"
+                     sodipodi:role="line"
+                     id="tspan619">py</tspan></text>
+              </g>
+            </g>
+            <text
+               transform="matrix(1.0540926,0,-0.22406174,-0.94868326,0,0)"
+               style="font-variant:normal;font-weight:normal;font-size:6.45536px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14806"
+               id="text625"
+               x="419.98041"
+               y="-72.018639"><tspan
+                 x="419.98041 422.16876 423.54376 427.0755 428.4505 429.99332 433.52505 435.77798 441.09784 442.47281"
+                 y="-72.018639"
+                 sodipodi:role="line"
+                 id="tspan623"
+                 style="stroke-width:1.14806">ridiformis</tspan></text>
+            <path
+               d="m 405.58877,543.01739 h -55.92976 m 55.92976,-6.99138 h -2.99648 m 2.99648,-5.99172 h -2.99648 m 0,2.99649 h -49.9368 m 49.9368,2.99523 v -5.99172 m 2.99648,-5.99296 h -2.99648 m 2.99648,-6.99014 h -2.99648 m 0,3.9949 h -42.94542 m 42.94542,2.99524 v -6.99014 m 2.99648,-5.99296 h -6.99138 m 6.99138,-5.99295 h -2.99648 m 2.99648,-6.99014 h -2.99648 m 0,3.99489 h -3.9949 m 3.9949,2.99525 v -6.99014 m -3.9949,7.98979 h -32.9588 m 32.9588,4.9933 v -8.9882 m 6.99138,-9.98785 h -2.99648 m 2.99648,-5.99296 h -2.99648 m 0,2.99647 h -26.96461 m 26.96461,2.99649 v -5.99296 m 2.99648,-6.49155 h -22.97095 m 22.97095,-6.49155 h -2.99648 m 2.99648,-5.99296 h -2.99648 m 0,2.99647 h -16.978 m 16.978,2.99649 v -5.99296 m 2.99648,-5.99173 h -2.99648 m 2.99648,-6.99136 h -2.99648 m 0,3.99489 h -9.98786 m 9.98786,2.99647 v -6.99136 m 2.99648,-5.99173 h -6.99138 m 6.99138,-5.99297 h -2.99648 m 2.99648,-6.49277 h -2.99648 m 0,3.49631 h -3.9949 m 3.9949,2.99646 v -5.99295 m -3.9949,6.99261 h -5.99296 m 5.99296,4.99331 v -8.98943 m -5.99296,10.98626 h -6.99014 m 6.99014,7.98979 v -14.97993"
+               style="fill:none;stroke:#1875bc;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path627" />
+            <path
+               d="m 385.61429,460.12302 h -2.99647"
+               style="fill:none;stroke:#999999;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path629" />
+            <path
+               d="m 385.61429,470.10963 v -19.97446 m -2.99647,19.97446 h -6.99014 m 6.99014,9.48804 v -19.27175 m -6.99014,19.27175 h -9.98909 m 9.98909,9.48802 v -18.97606 m -9.98909,22.97096 h -5.99172 m 5.99172,12.98434 v -25.96744 m -5.99172,26.96585 h -6.99138 m 6.99138,13.98275 v -27.9655 m -6.99138,26.96585 h -2.99648 m 2.99648,12.98434 v -25.96744 m -2.99648,23.96936 h -2.99647 m 2.99647,11.98469 v -22.97095"
+               style="fill:none;stroke:#1875bc;stroke-width:0.927895;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path631" />
+            <g
+               id="g633"
+               transform="matrix(1.2371924,0,0,1.2371924,-97.133221,-144.80095)">
+              <g
+                 id="g635"
+                 clip-path="url(#clipPath639)">
+                <path
+                   d="m 358.712,553.529 h -37.941 m 37.941,7.265 v -14.53 m -37.941,37.941 H 166.585 m 154.186,29.869 v -60.545 m 85.57,-89.606 h -5.651 m 5.651,-4.843 h -2.422 m 2.422,-4.844 h -2.422 m 0,2.422 h -3.229 m 3.229,2.422 v -4.844 m -3.229,6.458 h -12.916 m 12.916,3.229 v -7.265 m 5.651,-8.072 h -10.495 m 10.495,-4.844 h -8.073 m 8.073,-4.844 h -5.651 m 5.651,-4.844 h -2.422 m 2.422,-5.65 h -2.422 m 0,2.422 h -3.229 m 3.229,3.228 v -5.65 m -3.229,6.458 h -2.422 m 2.422,4.036 v -8.072 m -2.422,8.88 h -2.422 m 2.422,4.036 v -8.88 m -2.422,9.283 h -8.072 m 8.072,4.441 v -8.88 m -8.072,12.916 H 254.576 m 133.198,8.072 v -16.145 m 18.567,-20.989 h -5.651 m 5.651,-4.843 h -2.422 m 2.422,-5.65 h -2.422 m 0,2.422 h -3.229 m 3.229,3.228 v -5.65 m -3.229,6.457 h -31.483 m 31.483,4.036 v -8.071 m 5.651,-7.266 H 377.28 m 29.061,-4.843 h -26.639 m 26.639,-5.651 h -5.651 m 5.651,-4.843 h -2.422 m 2.422,-4.844 h -2.422 m 0,2.422 h -3.229 m 3.229,2.422 v -4.844 m -3.229,6.458 h -18.566 m 18.566,3.229 v -7.265 m 5.651,-8.072 h -5.651 m 5.651,-4.844 h -2.422 m 2.422,-4.844 h -2.422 m 0,2.422 h -3.229 m 3.229,2.422 v -4.844 m -3.229,6.458 h -10.494 m 10.494,3.23 v -7.266 m 5.651,-7.266 h -8.073 m 8.073,-5.65 h -5.651 m 5.651,-4.844 h -2.422 m 2.422,-4.843 h -2.422 m 0,2.421 h -3.229 m 3.229,2.422 v -4.843 m -3.229,6.458 h -2.422 m 2.422,3.229 v -7.266 m -2.422,8.073 h -8.072 m 8.072,4.843 v -8.879 m -8.072,12.109 h -8.072 m 8.072,8.072 v -16.145 m -8.072,19.375 h -2.422 m 2.422,12.108 v -23.41 m -2.422,21.796 h -2.422"
+                   style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path641" />
+                <path
+                   d="m 379.702,403.38 v -20.988 m -2.422,18.566 h -8.073 m 8.073,7.265 v -15.337 m -8.073,16.952 h -93.642 m 93.642,9.686 v -18.566 m 37.134,-54.086 h -2.422 m 2.422,-4.843 h -2.422 m 0,2.421 h -21.795 m 21.795,2.422 v -4.843 m 2.422,-4.844 h -18.567 m 18.567,-5.651 h -16.145 m 16.145,-4.843 h -12.917 m 12.917,-4.844 h -10.495 m 10.495,-5.247 h -8.073 m 8.073,-5.247 h -5.651 m 5.651,-4.844 h -2.422 m 2.422,-4.844 h -2.422 m 0,2.422 h -3.229 m 3.229,2.422 v -4.844 m -3.229,6.458 h -2.422 m 2.422,3.23 v -7.266 m -2.422,8.073 h -2.422 m 2.422,4.44 v -8.324 m -2.422,8.727 h -2.422 m 2.422,4.844 v -9.687 m -2.422,9.687 h -3.228 m 3.228,4.844 v -9.688 m -3.228,9.688 h -2.422 m 2.422,4.843 v -9.687 m -2.422,10.091 h -5.65 m 5.65,5.247 v -10.494 m -5.65,11.301 h -66.196 m 66.196,6.458 v -12.109 m 24.217,-36.326 h -2.422 m 2.422,-4.844 h -2.422 m 0,2.422 h -61.352 m 61.352,2.422 v -4.844 m 2.422,-4.843 h -5.651 m 5.651,-5.652 h -2.422 m 2.422,-4.842 h -2.422 m 0,2.421 h -3.229 m 3.229,2.421 v -4.842 m -3.229,6.458 h -53.279 m 53.279,4.036 v -8.073 m 5.651,-7.265 h -5.651 m 5.651,-4.844 h -2.422 m 2.422,-5.65 h -2.422 m 0,2.825 h -3.229 m 3.229,2.825 v -5.65 m -3.229,6.458 h -18.566 m 18.566,4.036 v -7.266 m 5.651,-8.072 h -16.145 m 16.145,-4.844 h -5.651 m 5.651,-4.843 h -2.422 m 2.422,-5.651 h -2.422 m 0,2.422 h -3.229 m 3.229,3.229 v -5.651 m -3.229,6.458 h -7.266 m 7.266,4.036 v -8.072 m 5.651,-7.266 h -5.651 m 5.651,-4.843 h -2.422 m 2.422,-5.651 h -2.422 m 0,2.826 h -3.229 m 3.229,2.825 v -5.651"
+                   style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path643" />
+                <path
+                   d="m 400.69,231.434 h -7.266 m 7.266,4.036 v -7.265 m -7.266,11.302 h -3.228 m 3.228,7.265 v -15.338 m -3.228,16.145 h -8.072 m 8.072,8.073 v -16.145 m -8.072,17.759 h -26.64 m 26.64,9.688 v -19.375 m 24.217,-27.446 h -10.495 m 10.495,-4.844 h -8.073 m 8.073,-5.651 h -5.651 m 5.651,-4.843 h -2.422 m 2.422,-4.844 h -2.422 m 0,2.422 h -3.229 m 3.229,2.422 v -4.844 m -3.229,6.458 h -2.422 m 2.422,3.229 v -7.265 m -2.422,8.072 h -2.422 m 2.422,4.844 v -8.88 m -2.422,8.88 h -13.722 m 13.722,4.844 v -9.688 M 406.341,194.3 h -2.422 m 2.422,-4.843 h -2.422 m 0,2.421 h -8.073 m 8.073,2.422 v -4.843 m 2.422,-4.844 h -5.651 m 5.651,-5.651 h -2.422 m 2.422,-4.844 h -2.422 m 0,2.422 h -3.229 m 3.229,2.422 v -4.844 m -3.274,6.459 h -4.799 m 4.844,4.036 v -8.073 m -4.844,9.688 h -13.722 m 13.722,5.65 v -11.301 m -13.722,20.181 h -26.64 m 26.64,14.531 v -29.061 m -26.64,42.785 h -8.073 m 8.073,28.253 v -56.508 m -8.073,54.894 h -4.844 m 4.844,26.64 v -53.279 m -4.844,46.013 h -26.639 m 26.639,18.567 v -37.941 m -26.639,50.857 h -40.363 m 40.363,31.483 v -62.966 m -40.363,83.148 h -20.989 m 20.989,51.664 V 306.509 m -20.989,98.888 h -87.991 m 87.991,47.225 v -94.448 m -87.991,136.425 h -21.796 m 21.796,89.606 V 405.802 m -21.796,173.156 h -20.988 m 20.988,84.358 V 494.599 m -20.988,148.536 h -17.76 m 17.76,64.581 V 579.362"
+                   style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path645" />
+                <path
+                   d="m 105.234,690.36 h -8.073 m 8.073,47.224 v -94.449"
+                   style="fill:none;stroke:#999999;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path647" />
+                <path
+                   d="M 97.161,725.475 H 93.932"
+                   style="fill:none;stroke:#889096;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path649" />
+                <path
+                   d="m 97.161,760.187 v -69.424 m -4.036,78.304 v -43.592"
+                   style="fill:none;stroke:#999999;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                   id="path651" />
+              </g>
+            </g>
+            <text
+               transform="scale(1,-1)"
+               style="font-variant:normal;font-weight:normal;font-size:11.9847px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.23719"
+               id="text673"
+               x="97.991188"
+               y="-733.77576"><tspan
+                 x="97.991188 107.97443 114.63792 121.3014 124.63314 131.29663 137.96011 144.6236"
+                 y="-733.77576"
+                 sodipodi:role="line"
+                 id="tspan653"
+                 style="stroke-width:1.23719">Mantodea</tspan><tspan
+                 x="127.93972 134.60321 141.26668"
+                 y="-713.8009"
+                 sodipodi:role="line"
+                 id="tspan655"
+                 style="stroke-width:1.23719">100</tspan><tspan
+                 x="88.98951 96.382843 103.04633 105.70694 111.69928 118.36277 125.02624 131.68973 138.3532 145.01669 147.67729 154.34077 161.00427"
+                 y="-681.06598"
+                 sodipodi:role="line"
+                 id="tspan657"
+                 style="stroke-width:1.23719">Polyphagoidea</tspan><tspan
+                 x="133.93207 140.59555 147.25903"
+                 y="-660.8681"
+                 sodipodi:role="line"
+                 id="tspan659"
+                 style="stroke-width:1.23719">100</tspan><tspan
+                 x="28.066559 34.730049 41.393536"
+                 y="-634.90088"
+                 sodipodi:role="line"
+                 id="tspan661"
+                 style="stroke-width:1.23719">100</tspan><tspan
+                 x="59.027798 65.691284"
+                 y="-557.00049"
+                 sodipodi:role="line"
+                 id="tspan663"
+                 style="stroke-width:1.23719">87</tspan><tspan
+                 x="86.991653 93.655136"
+                 y="-452.1333"
+                 sodipodi:role="line"
+                 id="tspan665"
+                 style="stroke-width:1.23719">96</tspan><tspan
+                 x="160.8976 167.56108 174.22455"
+                 y="-560.995"
+                 sodipodi:role="line"
+                 id="tspan667"
+                 style="stroke-width:1.23719">100</tspan><tspan
+                 x="298.72263 305.38611 312.04962"
+                 y="-525.04095"
+                 sodipodi:role="line"
+                 id="tspan669"
+                 style="stroke-width:1.23719">100</tspan><tspan
+                 x="312.02805 318.69153 325.35501"
+                 y="-487.34311"
+                 sodipodi:role="line"
+                 id="tspan671"
+                 style="stroke-width:1.23719">100</tspan></text>
+            <path
+               d="m 284.7423,506.06493 51.93362,22.97095"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path675" />
+            <path
+               d="m 336.67592,523.04292 7.98978,9.98786 h -11.98468 l 3.9949,-9.98786"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path677" />
+            <text
+               transform="scale(1,-1)"
+               style="font-variant:normal;font-weight:normal;font-size:11.9847px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.23719"
+               id="text685"
+               x="154.40704"
+               y="-340.27499"><tspan
+                 x="154.40704 161.07053 167.73401"
+                 y="-340.27499"
+                 sodipodi:role="line"
+                 id="tspan679"
+                 style="stroke-width:1.23719">100</tspan><tspan
+                 x="129.60713 137.60092 140.26154 146.92502 150.25674 153.58849 160.25198 162.91258 169.57607 176.23955"
+                 y="-581.96643"
+                 sodipodi:role="line"
+                 id="tspan681"
+                 style="stroke-width:1.23719">Blattoidea</tspan><tspan
+                 x="134.44057 142.43434 145.09494 151.75842 158.42192 165.08542 169.07629 175.73979 178.40039 185.06387 191.72737"
+                 y="-361.30093"
+                 sodipodi:role="line"
+                 id="tspan683"
+                 style="stroke-width:1.23719">Blaberoidea</tspan></text>
+            <path
+               d="m 288.73718,545.01421 h 47.93874"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path687" />
+            <path
+               d="m 334.67784,539.02249 9.98786,5.99172 -9.98786,4.99455 v -10.98627"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path689" />
+            <text
+               transform="scale(1,-1)"
+               style="font-variant:normal;font-weight:normal;font-size:11.9847px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.23719"
+               id="text711"
+               x="203.85156"
+               y="-541.01996"><tspan
+                 x="203.85156 212.5045 216.85497 222.84727 229.51077 232.84253 239.50598 245.49834 252.16182 256.15271 262.14508 264.80566 271.46915 278.13263"
+                 y="-541.01996"
+                 sodipodi:role="line"
+                 id="tspan691"
+                 style="stroke-width:1.23719">Cryptocercidae</tspan><tspan
+                 x="224.90746 230.79192 237.45541 241.74591 251.72798 254.38857 257.72031 260.38092 267.04443 273.70789"
+                 y="-501.07022"
+                 sodipodi:role="line"
+                 id="tspan693"
+                 style="stroke-width:1.23719">Termitidae</tspan><tspan
+                 x="272.59088 280.58469 283.24527 289.90878 293.24051 296.57227 303.23575 305.89633 308.55695 311.21756 317.88104 324.54449"
+                 y="-418.17575"
+                 sodipodi:role="line"
+                 id="tspan695"
+                 style="stroke-width:1.23719">Blattellidae</tspan><tspan
+                 x="286.9126 290.9035 297.56699 304.23047 308.70074 312.0325"
+                 y="-399.20041"
+                 sodipodi:role="line"
+                 id="tspan697"
+                 style="stroke-width:1.23719">(part)</tspan><tspan
+                 x="274.08896 282.08276 284.74338 291.40689 294.73859 298.07034 304.73383 307.39441 310.05499 312.71564 319.37912 326.0426"
+                 y="-367.71902"
+                 sodipodi:role="line"
+                 id="tspan699"
+                 style="stroke-width:1.23719">Blattellidae</tspan><tspan
+                 x="288.41071 292.40161 299.06506 305.72855 310.19885 313.53058"
+                 y="-347.2684"
+                 sodipodi:role="line"
+                 id="tspan701"
+                 style="stroke-width:1.23719">(part)</tspan><tspan
+                 x="232.17136 240.16515 242.82574 249.48923 256.15271 262.81619 266.98688 269.64746 276.31094 282.97443"
+                 y="-220.42967"
+                 sodipodi:role="line"
+                 id="tspan703"
+                 style="stroke-width:1.23719">Blaberidae</tspan><tspan
+                 x="308.54135 316.53513 319.19571 325.85925 329.19098 332.52274 335.18332 341.84677 348.51028"
+                 y="-618.89764"
+                 sodipodi:role="line"
+                 id="tspan705"
+                 style="stroke-width:1.23719">Blattidae</tspan><tspan
+                 x="271.86465 280.51758 287.18106 293.17343 296.50513 299.16571 305.15808 311.82156 314.48218 317.14276 323.80624 330.46973"
+                 y="-694.82538"
+                 sodipodi:role="line"
+                 id="tspan707"
+                 style="stroke-width:1.23719">Nocticolidae</tspan><tspan
+                 x="273.41547 280.80881 287.47229 290.13287 296.12524 302.7887 309.45218 316.11566 322.77914 325.43976 332.10324 338.76672"
+                 y="-652.87897"
+                 sodipodi:role="line"
+                 id="tspan709"
+                 style="stroke-width:1.23719">Polyphagidae</tspan></text>
+            <path
+               d="m 348.6606,657.87215 23.97059,6.99136"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path713" />
+            <path
+               d="m 372.63119,658.87055 7.9898,7.9898 -10.98627,2.99648 2.99647,-10.98628"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path715" />
+            <path
+               d="m 339.67239,694.8246 31.95916,-7.98979"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path717" />
+            <path
+               d="m 368.63507,680.8431 11.98592,1.99681 -8.98944,8.98945 -2.99648,-10.98626"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path719" />
+            <text
+               transform="scale(1,-1)"
+               style="font-variant:normal;font-weight:normal;font-size:11.9847px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.23719"
+               id="text727"
+               x="68.804466"
+               y="-812.67523"><tspan
+                 x="68.804466 78.128548 82.598839 85.93058 92.594063 99.257545 105.92103 109.25277 115.91625 119.7873"
+                 y="-812.67523"
+                 sodipodi:role="line"
+                 id="tspan721"
+                 style="stroke-width:1.23719">Orthoptera</tspan><tspan
+                 x="244.34772 254.33095 260.99445 267.65793 270.98962 277.65311 284.31659 290.98007 297.64362 303.63593 313.61917 320.28265 323.61441 330.27789 336.94138 343.60486"
+                 y="-775.72284"
+                 sodipodi:role="line"
+                 id="tspan723"
+                 style="stroke-width:1.23719">Mantophasmatodea</tspan><tspan
+                 x="261.22574 270.54984 274.90027 280.89261 283.55322 286.21381 292.87732 299.30106 301.96167 308.62515 311.95691 315.28867 321.95212 328.6156 335.27908"
+                 y="-748.75732"
+                 sodipodi:role="line"
+                 id="tspan725"
+                 style="stroke-width:1.23719">Grylloblattodea</tspan></text>
+            <path
+               d="m 128.94018,816.67074 39.94894,-5.99297"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path729" />
+            <path
+               d="m 165.89264,804.68605 10.98627,3.99489 -8.98944,6.99137 -1.99683,-10.98626"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path731" />
+            <path
+               d="m 128.94018,816.67074 20.97289,-14.98117"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path733" />
+            <path
+               d="m 144.91852,799.69151 11.98469,-2.99526 -5.99174,10.98628 -5.99295,-7.99102"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path735" />
+            <path
+               d="m 344.6657,752.75118 31.95915,5.99296"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path737" />
+            <path
+               d="m 375.62768,752.75118 8.98697,7.9898 -10.98627,2.99648 1.9993,-10.98628"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path739" />
+            <path
+               d="m 353.65514,779.71703 22.96971,-1.99683"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path741" />
+            <path
+               d="m 374.62803,771.72724 9.98662,4.99455 -8.98697,5.99173 -0.99965,-10.98628"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path743" />
+            <path
+               d="m 329.68454,498.07514 11.98468,24.96778"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path745" />
+            <path
+               d="m 346.66254,518.0496 v 10.98628 l -9.98662,-6.99138 9.98662,-3.9949"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path747" />
+            <text
+               transform="scale(1,-1)"
+               style="font-variant:normal;font-weight:normal;font-size:11.9847px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.23719"
+               id="text751"
+               x="25.075771"
+               y="-529.04553"><tspan
+                 x="25.075771 33.069565 35.730152 42.393639 45.72538 49.057121 55.720612 62.384094 69.047577"
+                 y="-529.04553"
+                 sodipodi:role="line"
+                 id="tspan749"
+                 style="stroke-width:1.23719">Blattodea</tspan></text>
+            <path
+               d="m 43.048094,540.02091 7.989795,19.97446"
+               style="fill:none;stroke:#000000;stroke-width:0.927895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path753" />
+            <path
+               d="m 56.032434,555.00207 -0.998416,11.98468 -8.989443,-7.98978 9.987859,-3.9949"
+               style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.23719"
+               id="path755" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

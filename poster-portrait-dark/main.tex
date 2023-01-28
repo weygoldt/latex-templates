@@ -1,0 +1,116 @@
+\documentclass[25pt, a0paper, portrait, margin=0mm, innermargin=20mm,
+blockverticalspace=2mm, colspace=20mm, subcolspace=0mm]{tikzposter} %Default values for poster format options.
+
+\input{packages}
+\input{style}
+
+\begin{document}
+
+\renewcommand{\baselinestretch}{1}
+\title{\parbox{1600pt}{Detecting chirps based on dynamic filtering for the \\ analysis of social interactions in weakly electric fish}}
+\author{Sina Prause, Alexander Wendt, and Patrick Weygoldt}
+\institute{Supervised by Till Raab \& Jan Benda, Neuroethology Lab, University of Tuebingen}
+\usetitlestyle[]{sampletitle}
+\maketitle
+\renewcommand{\baselinestretch}{1.4}
+
+\begin{columns}
+\column{0.4}
+\myblock[TranspBlock]{Introduction}{
+    \textbf{Chirps} are one type of communication signals in weakly electric fish. They are characterized by \textbf{short frequency excursions} and are emitted during various social contexts. The time-frequency uncertainty of the Fourier transform makes it nearly impossible to reliably \textbf{detect and assign} chirps in freely interacting fish based on spectral methods. To overcome these limits, we developed a method based on \textbf{dynamic filtering} and subsequent \textbf{feature detection}.
+    \vspace{1cm}
+    \begin{tikzfigure}[]
+        \label{griddrawing}
+        \includegraphics[width=\linewidth]{figs/introplot}
+    \end{tikzfigure}
+}
+\myblock[TranspBlock]{Chirp detection algorithm}{
+    \begin{tikzfigure}[]
+        \label{fig:alg1}
+        \includegraphics[width=0.9\linewidth]{figs/algorithm1}
+    \end{tikzfigure}
+    \vspace{1cm}
+    \begin{tikzfigure}[]
+        \label{fig:alg2}
+        \includegraphics[width=1\linewidth]{figs/algorithm}
+    \end{tikzfigure}
+    \vspace{0cm}
+}
+
+\column{0.6}
+\myblock[TranspBlock]{Chirps in dyadic competitions (Data by Till Raab, 2020)}{
+    \vspace{-2.75cm}
+    \begin{tikzfigure}[]
+        \label{fig:example_b}
+        \includegraphics[width=\linewidth]{figs/timeline.pdf}
+    \end{tikzfigure}
+    \noindent
+    \begin{multicols}{2}
+        \begin{itemize}
+            % \setlength\itemsep{0.5em}
+            \item The electric behavior of two fish competing for one shelter were recorded in a light and dark condition.
+            \item Using video recordings, behavior was classified as chasings or physical contacts.
+        \end{itemize}
+    \end{multicols}
+
+    \vspace{-2cm}
+    \noindent
+    \begin{tikzfigure}[]
+        \label{fig:example_b}
+        \includegraphics[width=\linewidth]{figs/chirps_winner_loser.pdf}
+    \end{tikzfigure}
+    \noindent
+    \begin{multicols}{2}
+        \begin{itemize}
+            \item Losers tend to chirp more.
+            \item Larger fish usually win. The smaller the size difference the more chirps are emitted.
+            \columnbreak
+            \item EOD frequency has no effect on the competition outcome and the chirp rate.
+        \end{itemize}
+    \end{multicols}
+}
+
+\myblock[TranspBlock]{Chirps emitted by loser fish might stop chasing events}{
+    \vspace{-1.2cm}
+    \begin{minipage}{0.6666\linewidth}
+        \begin{tikzfigure}[]
+            \includegraphics[width=1.1\linewidth]{figs/kde.pdf}
+        \end{tikzfigure}
+    \end{minipage}
+        \begin{minipage}{0.3333\linewidth}
+            \begin{tikzfigure}[]
+                \includegraphics[width=1\linewidth]{figs/chirps_in_chasing.pdf}
+            \end{tikzfigure}
+    \end{minipage}
+    \noindent
+    \begin{multicols}{2}
+        \begin{itemize}
+            \item In most cases there is no correlation between chirping and chasing- or physical contact events.
+            \item The chirp rate during chasings only increases for some dyads.
+        \end{itemize}
+    \end{multicols}
+}
+
+\myblock[GrayBlock]{Conclusion}{
+    \begin{itemize}
+        \setlength\itemsep{0.5em}
+        \item First tests indicate that our algorithm is able to detect chirps in recordings of multiple fish.
+        \item In some cases the chirp rate drastically increases before chasing stops.
+        \item Behavioral analysis needs to consider more variables, such as sex, size, and interindividual differences in chirping behavior.
+    \end{itemize}
+    \vspace{0.2cm}
+    }
+    \end{columns}
+
+\node [above right,
+    text=white,
+    outer sep=45pt,
+    minimum width=\paperwidth,
+    align=center,
+    draw,
+    fill=boxes,
+    color=boxes] at (-43.6,-61) {
+        \textcolor{white}{
+    \normalsize Contact: \{name\}.\{surname\}@student.uni-tuebingen.de}};
+
+\end{document}

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.122879mm"
+   height="79.019951mm"
+   viewBox="0 0 348.18097 298.65809"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="inward_small.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4681257"
+     inkscape:cx="210.81301"
+     inkscape:cy="222.3924"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g832" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1246">
+      <path
+         d="M 159.761,782.929 H 421.059 V 558.935 H 159.761 Z"
+         id="path1244" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1302">
+      <path
+         d="M 159.761,782.929 H 421.059 V 558.935 H 159.761 Z"
+         id="path1300" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1348">
+      <path
+         d="M 0,0 H 595 V 842 H 0 Z"
+         id="path1346" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1246-1">
+      <path
+         d="M 159.761,782.929 H 421.059 V 558.935 H 159.761 Z"
+         id="path1244-2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1302-8">
+      <path
+         d="M 159.761,782.929 H 421.059 V 558.935 H 159.761 Z"
+         id="path1300-1" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g830"
+       inkscape:label="Inward et al_2007_Death of an order"
+       transform="matrix(1.3333333,0,0,-1.3333333,368.0485,1274.8163)">
+      <g
+         id="g832">
+        <g
+           id="g1989"
+           transform="translate(545.38249,-449.1614)">
+          <g
+             id="g1240"
+             transform="translate(-981.17987,622.34507)">
+            <g
+               id="g1242"
+               clip-path="url(#clipPath1246-1)">
+              <path
+                 d="M 328.361,768.681 H 175.151 M 327.979,737.529 H 193.134 m 136.132,-36.871 h -67.385 m 95.994,-50.231 h -65.664 m 0.124,-16.571 -30.364,0.012 m 0.227,32.588 -50.77,-0.008 m 50.626,-32.797 v 67.188 m 65.93,-128.607 H 211.43 m 0.323,47.41 h -18.776 m 18.703,46.806 v -94.371 m -18.546,106.624 h -17.768 m 17.865,58.867 V 619.68 m -17.865,104.021 h -15.605 m 15.647,45.039 v -90.269"
+                 style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 id="path1248" />
+            </g>
+          </g>
+          <text
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1256"
+             x="-618.6308"
+             y="-1389.1917"><tspan
+               x="-618.6308 -611.1698 -606.20178 -601.23376 -598.76776 -593.79974 -591.83777 -586.86975"
+               y="-1389.1917"
+               sodipodi:role="line"
+               id="tspan1250">Mantoida</tspan><tspan
+               x="-619.51819 -613.52417 -608.52917 -606.54016 -602.04919 -597.0542 -592.05914 -587.06415 -582.06915 -577.07416 -575.08514 -570.09015 -565.09515"
+               y="-1357.7491"
+               sodipodi:role="line"
+               id="tspan1252">Polyphagoidea</tspan><tspan
+               x="-618.6308 -612.62775 -610.62976 -605.62579 -600.62177 -595.6178 -592.62079 -587.61676 -585.61877 -580.61475 -575.61078"
+               y="-1192.196"
+               sodipodi:role="line"
+               id="tspan1254">Blaberoidea</tspan></text>
+          <path
+             d="m -652.19087,1322.9791 30.085,13.449 m -30.085,-13.449 30.162,-12.856 m -0.077,26.305 v -26.546 m -66.709,-37.11 v -30.901"
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1258" />
+          <text
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1264"
+             x="-815.17114"
+             y="-1331.618"><tspan
+               x="-815.17114"
+               y="-1331.618"
+               id="tspan1260">1</tspan><tspan
+               x="-799.1026"
+               y="-1285.2664"
+               id="tspan1262">2</tspan></text>
+          <path
+             d="m -652.90787,1242.0141 30.686,13.258 m -30.686,-13.258 30.764,-13.32 m 0.037,26.578 v -26.578"
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1266" />
+          <path
+             d="m -652.43887,1242.0251 h -36.376"
+             style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path1268" />
+          <text
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1272"
+             x="-618.6308"
+             y="-1238.832"><tspan
+               x="-618.6308 -613.13177 -608.12775 -605.1308 -597.63379 -595.63574 -593.13379 -591.13574 -586.13177 -581.12775"
+               y="-1238.832"
+               sodipodi:role="line"
+               id="tspan1270">Termitidae</tspan></text>
+          <text
+             transform="matrix(1,0,-0.21255556,-1,0,0)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.978148"
+             id="text1276"
+             x="-887.10852"
+             y="-1270.1835"><tspan
+               x="-887.10852 -880.61053 -877.61353 -873.11353 -868.10956 -865.60754 -860.60352 -856.10352 -851.09955 -848.10254 -843.60254 -838.59851"
+               y="-1270.1835"
+               sodipodi:role="line"
+               id="tspan1274"
+               style="stroke-width:0.978148">Cryptocercus</tspan></text>
+          <path
+             d="m -807.12687,1345.4671 c 0,3.205 -2.588,5.794 -5.794,5.794 -3.206,0 -5.794,-2.589 -5.794,-5.794 0,-3.206 2.588,-5.795 5.794,-5.795 3.206,0 5.794,2.589 5.794,5.795"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path1278" />
+          <path
+             d="m -791.05887,1300.5061 c 0,3.205 -2.588,5.793 -5.794,5.793 -3.206,0 -5.794,-2.588 -5.794,-5.793 0,-3.207 2.588,-5.794 5.794,-5.794 3.206,0 5.794,2.587 5.794,5.794"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path1280" />
+          <text
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1284"
+             x="-706.12885"
+             y="-1241.1934"><tspan
+               x="-706.12885"
+               y="-1241.1934"
+               id="tspan1282">3</tspan></text>
+          <path
+             d="m -698.08487,1257.1281 c 0,3.206 -2.588,5.794 -5.794,5.794 -3.206,0 -5.794,-2.588 -5.794,-5.794 0,-3.206 2.588,-5.794 5.794,-5.794 3.206,0 5.794,2.588 5.794,5.794"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path1286" />
+          <path
+             d="m -661.58287,1240.4411 c 0,3.206 -2.589,5.794 -5.794,5.794 -3.207,0 -5.794,-2.588 -5.794,-5.794 0,-3.206 2.587,-5.794 5.794,-5.794 3.205,0 5.794,2.588 5.794,5.794"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path1288" />
+          <text
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text1294"
+             x="-669.62659"
+             y="-1225.3185"><tspan
+               x="-669.62659"
+               y="-1225.3185"
+               id="tspan1290">4</tspan><tspan
+               x="-618.6308 -612.63678 -610.64777 -605.65277 -603.15979 -600.66675 -598.6778 -593.68274 -588.68774"
+               y="-1319.6646"
+               sodipodi:role="line"
+               id="tspan1292">Blattidae</tspan></text>
+          <g
+             id="g1296"
+             transform="translate(-981.17987,622.34507)">
+            <g
+               id="g1298"
+               clip-path="url(#clipPath1302-8)">
+              <path
+                 d="m 327.782,572.248 31.181,13.603 m -31.101,-13.684 31.179,-13.055 m 0.033,26.739 v -26.654"
+                 style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 id="path1304" />
+              <path
+                 d="m 328.089,768.651 30.896,14.05 m -30.896,-14.05 30.976,-13.302 m -0.08,27.237 v -27.353 m -31.006,-17.562 31.039,13.831 m -31.039,-13.831 31.119,-13.549 m -0.08,27.38 v -27.294"
+                 style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 id="path1306" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

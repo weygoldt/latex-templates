@@ -1,0 +1,2362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160mm"
+   height="139.76424mm"
+   viewBox="0 0 604.72443 528.24279"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="drawing-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="160mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="0.73406285"
+     inkscape:cx="131.46013"
+     inkscape:cy="311.28125"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="annotations"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(3.95e-7,-11.344685)">
+    <g
+       id="g17542"
+       transform="translate(-1.4023204)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="121.24303"
+         y="16.208307"
+         id="text7091"><tspan
+           sodipodi:role="line"
+           id="tspan7089"
+           x="121.24303"
+           y="16.208307"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'">ClustaW</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="413.64032"
+         y="16.208307"
+         id="text7091-0"><tspan
+           sodipodi:role="line"
+           id="tspan7089-1"
+           x="413.64032"
+           y="16.208307"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.3333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'">Muscle</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="altrees"
+     transform="translate(3.95e-7,-11.344685)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="ml_muscle"
+       style="display:inline" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="ml_clustaw"
+       style="display:inline">
+      <g
+         id="g32769"
+         transform="translate(0,-75.999998)"
+         style="stroke-width:0.50645669;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g21310"
+           transform="matrix(0.50560399,0,0,0.50560399,289.01422,486.93606)"
+           style="display:inline;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">
+          <g
+             id="g22503"
+             style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">
+            <text
+               x="445"
+               y="52"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text21165"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e16800;fill-opacity:1;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">Blaberoidae</text>
+            <line
+               x1="140"
+               y1="45"
+               x2="439"
+               y2="45"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21167"
+               style="fill:#7ad151;fill-opacity:1;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <text
+               x="445"
+               y="100"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text21169"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#148f18;fill-opacity:1;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">Blattidae</text>
+            <line
+               x1="240"
+               y1="93"
+               x2="439"
+               y2="93"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21171"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <polyline
+               points="340,165 340,141 440,141"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline21175"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <text
+               x="445"
+               y="196"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text21177"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f3490;fill-opacity:1;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">Isoptera</text>
+            <line
+               x1="340"
+               y1="189"
+               x2="439"
+               y2="189"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21179"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="340"
+               y1="165"
+               x2="340"
+               y2="189"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21181"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <polyline
+               points="240,130 240,165 340,165"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline21183"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="240"
+               y1="94"
+               x2="240"
+               y2="131"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21185"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <polyline
+               points="140,88 140,129 240,129"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline21187"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="140"
+               y1="46"
+               x2="140"
+               y2="89"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21189"
+               style="fill:#7ad151;fill-opacity:1;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <polyline
+               points="40,162 40,87 140,87"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline21191"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <text
+               x="445"
+               y="244"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text21193"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#440154;fill-opacity:1;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">Mantoida</text>
+            <line
+               x1="40"
+               y1="237"
+               x2="439"
+               y2="237"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21195"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="40"
+               y1="162"
+               x2="40"
+               y2="237"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21197"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <text
+               x="415.77356"
+               y="206"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text21199"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">99</text>
+            <text
+               x="415.77356"
+               y="254"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text21201"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">97</text>
+            <text
+               x="415.77356"
+               y="110"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text21205"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">73</text>
+            <text
+               x="415.77356"
+               y="62"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text21209"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">58</text>
+            <line
+               x1="140"
+               y1="45"
+               x2="439"
+               y2="45"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21213"
+               style="fill:#7ad151;fill-opacity:1;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="240"
+               y1="93"
+               x2="439"
+               y2="93"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21217"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <text
+               x="446"
+               y="148"
+               fill="#000000"
+               font-size="16px"
+               font-family="Arial"
+               id="text21219"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008b85;fill-opacity:1;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">Cryptocercus punctulatus</text>
+            <polyline
+               points="340,165 340,141 440,141"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline21221"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="340"
+               y1="189"
+               x2="439"
+               y2="189"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21225"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="340"
+               y1="165"
+               x2="340"
+               y2="189"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21227"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <polyline
+               points="240,130 240,165 340,165"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline21229"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="240"
+               y1="94"
+               x2="240"
+               y2="131"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21231"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <polyline
+               points="140,88 140,129 240,129"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline21233"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="140"
+               y1="46"
+               x2="140"
+               y2="89"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21235"
+               style="fill:#7ad151;fill-opacity:1;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <polyline
+               points="40,162 40,87 140,87"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline21237"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="40"
+               y1="237"
+               x2="439"
+               y2="237"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21241"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <line
+               x1="40"
+               y1="162"
+               x2="40"
+               y2="237"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line21243"
+               style="stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none" />
+            <text
+               x="316"
+               y="182"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text21249"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">62</text>
+            <text
+               x="216"
+               y="146"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text21253"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168649;stroke-miterlimit:4;stroke-dasharray:none">62</text>
+          </g>
+        </g>
+        <g
+           id="g17698"
+           transform="matrix(0.505604,0,0,0.505604,-114.68262,425.0958)"
+           style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">
+          <line
+             x1="327.32303"
+             y1="167.6053"
+             x2="626.323"
+             y2="167.6053"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17549"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="527.323"
+             y1="215.6053"
+             x2="626.323"
+             y2="215.6053"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17553"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="527.323"
+             y1="263.60532"
+             x2="626.323"
+             y2="263.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17557"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="527.323"
+             y1="216.6053"
+             x2="527.323"
+             y2="241.6053"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17559"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="527.323"
+             y1="239.6053"
+             x2="527.323"
+             y2="263.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17561"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <polyline
+             points="240,153 240,117 340,117"
+             fill="none"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="polyline17563"
+             transform="translate(187.32302,122.60531)"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="427.32303"
+             y1="311.60532"
+             x2="626.323"
+             y2="311.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17567"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="427.32303"
+             y1="275.60532"
+             x2="427.32303"
+             y2="311.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17569"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <polyline
+             points="140,100 140,153 240,153"
+             fill="none"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="polyline17571"
+             transform="translate(187.32302,122.60531)"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="327.32303"
+             y1="168.6053"
+             x2="327.32303"
+             y2="223.6053"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17573"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <polyline
+             points="40,168 40,99 140,99"
+             fill="none"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="polyline17575"
+             transform="translate(187.32302,122.60531)"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="227.32301"
+             y1="359.60532"
+             x2="626.323"
+             y2="359.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17579"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="227.32301"
+             y1="290.60532"
+             x2="227.32301"
+             y2="359.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17581"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <text
+             x="607.323"
+             y="328.60532"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17583"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">99</text>
+          <text
+             x="607.323"
+             y="376.60532"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17585"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">92</text>
+          <text
+             x="607.323"
+             y="232.6053"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17587"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">94</text>
+          <text
+             x="407.32303"
+             y="292.60532"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17589"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">34</text>
+          <text
+             x="507.32303"
+             y="256.60532"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17591"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">59</text>
+          <text
+             x="607.323"
+             y="184.6053"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17593"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">19</text>
+          <line
+             x1="327.32303"
+             y1="167.6053"
+             x2="626.323"
+             y2="167.6053"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17597"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="527.323"
+             y1="215.6053"
+             x2="626.323"
+             y2="215.6053"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17601"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="527.323"
+             y1="263.60532"
+             x2="626.323"
+             y2="263.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17605"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="527.323"
+             y1="216.6053"
+             x2="527.323"
+             y2="241.6053"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17607"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="527.323"
+             y1="239.6053"
+             x2="527.323"
+             y2="263.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17609"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <polyline
+             points="240,153 240,117 340,117"
+             fill="none"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="polyline17611"
+             transform="translate(187.32302,122.60531)"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="427.32303"
+             y1="311.60532"
+             x2="626.323"
+             y2="311.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17615"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="427.32303"
+             y1="275.60532"
+             x2="427.32303"
+             y2="311.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17617"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <polyline
+             points="140,100 140,153 240,153"
+             fill="none"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="polyline17619"
+             transform="translate(187.32302,122.60531)"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="327.32303"
+             y1="168.6053"
+             x2="327.32303"
+             y2="223.6053"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17621"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <polyline
+             points="40,168 40,99 140,99"
+             fill="none"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="polyline17623"
+             transform="translate(187.32302,122.60531)"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             x1="227.32301"
+             y1="359.60532"
+             x2="626.323"
+             y2="359.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17627"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g20934"
+             transform="translate(2.0434222,0.34057048)"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">
+            <text
+               x="633.323"
+               y="173.6053"
+               fill="#000000"
+               font-size="16px"
+               font-family="default"
+               id="text17595"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e16800;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">Blaberoidea</text>
+            <text
+               x="633.323"
+               y="221.6053"
+               fill="#000000"
+               font-size="16px"
+               font-family="default"
+               id="text17599"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#148f18;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">Blattidae</text>
+            <text
+               x="632.323"
+               y="270.60532"
+               fill="#000000"
+               font-size="15px"
+               font-family="Arial"
+               id="text17603"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008b85;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008b85;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="tspan20066">Cryptocercus punctulatus</tspan></text>
+            <text
+               x="633.323"
+               y="317.60532"
+               fill="#000000"
+               font-size="16px"
+               font-family="default"
+               id="text17613"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f3490;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">Isoptera</text>
+            <text
+               x="633.323"
+               y="365.60532"
+               fill="#000000"
+               font-size="16px"
+               font-family="default"
+               id="text17625"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#440154;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">Mantoida</text>
+          </g>
+          <line
+             x1="227.32301"
+             y1="290.60532"
+             x2="227.32301"
+             y2="359.60532"
+             stroke="#000000"
+             stroke-width="1"
+             stroke-linecap="square"
+             id="line17629"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+          <text
+             x="607.323"
+             y="328.60532"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17631"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">99</text>
+          <text
+             x="607.323"
+             y="376.60532"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17633"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">92</text>
+          <text
+             x="607.323"
+             y="232.6053"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17635"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">94</text>
+          <text
+             x="407.32303"
+             y="292.60532"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17637"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">34</text>
+          <text
+             x="507.32303"
+             y="256.60532"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17639"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">59</text>
+          <text
+             x="607.323"
+             y="184.6053"
+             fill="#000000"
+             font-size="16px"
+             font-family="Tahoma"
+             id="text17641"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9091px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">19</text>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="mp_clustaw"
+       style="display:inline" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="mp_muscle"
+       style="display:inline">
+      <g
+         id="g32522"
+         transform="translate(3.95e-7,-243.71723)">
+        <g
+           id="g32647"
+           transform="translate(0,-237.8648)">
+          <g
+             id="g22654"
+             transform="matrix(0.50560399,0,0,0.50560399,-19.971358,731.15107)"
+             style="display:inline">
+            <g
+               id="g26878">
+              <text
+                 x="445"
+                 y="51"
+                 fill="#000000"
+                 font-size="15px"
+                 font-family="default"
+                 id="text22509"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e16800;fill-opacity:1">Blaberoidea</text>
+              <line
+                 x1="240"
+                 y1="44"
+                 x2="439"
+                 y2="44"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22511" />
+              <text
+                 x="445"
+                 y="99"
+                 fill="#000000"
+                 font-size="15px"
+                 font-family="default"
+                 id="text22513"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#148f18;fill-opacity:1">Blattidae</text>
+              <line
+                 x1="340"
+                 y1="92"
+                 x2="439"
+                 y2="92"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22515" />
+              <text
+                 x="445"
+                 y="147"
+                 fill="#000000"
+                 font-size="15px"
+                 font-family="Arial"
+                 id="text22517"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008b85;fill-opacity:1"><tspan
+                   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008b85;fill-opacity:1"
+                   id="tspan24780">Cryptocercus punctulatus</tspan></text>
+              <polyline
+                 points="340,117 340,140 440,140"
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="polyline22519" />
+              <line
+                 x1="340"
+                 y1="93"
+                 x2="340"
+                 y2="118"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22521" />
+              <polyline
+                 points="240,81 240,116 340,116"
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="polyline22523" />
+              <line
+                 x1="240"
+                 y1="45"
+                 x2="240"
+                 y2="82"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22525" />
+              <polyline
+                 points="140,134 140,80 240,80"
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="polyline22527" />
+              <text
+                 x="445"
+                 y="195"
+                 fill="#000000"
+                 font-size="15px"
+                 font-family="default"
+                 id="text22529"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f3490;fill-opacity:1">Isoptera</text>
+              <line
+                 x1="140"
+                 y1="188"
+                 x2="439"
+                 y2="188"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22531" />
+              <line
+                 x1="140"
+                 y1="134"
+                 x2="140"
+                 y2="188"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22533" />
+              <polyline
+                 points="40,185 40,134 140,134"
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="polyline22535" />
+              <text
+                 x="445"
+                 y="243"
+                 fill="#000000"
+                 font-size="15px"
+                 font-family="default"
+                 id="text22537"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#440154;fill-opacity:1">Mantoida</text>
+              <line
+                 x1="40"
+                 y1="236"
+                 x2="439"
+                 y2="236"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22539" />
+              <line
+                 x1="40"
+                 y1="185"
+                 x2="40"
+                 y2="236"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22541" />
+              <text
+                 x="415.77356"
+                 y="253"
+                 fill="#000000"
+                 font-size="11px"
+                 font-family="Tahoma"
+                 id="text22543"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">99</text>
+              <text
+                 x="415.77356"
+                 y="205"
+                 fill="#000000"
+                 font-size="11px"
+                 font-family="Tahoma"
+                 id="text22545"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">99</text>
+              <text
+                 x="415.77356"
+                 y="61"
+                 fill="#000000"
+                 font-size="11px"
+                 font-family="Tahoma"
+                 id="text22547"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">50</text>
+              <text
+                 x="216"
+                 y="97"
+                 fill="#000000"
+                 font-size="11px"
+                 font-family="Tahoma"
+                 id="text22549"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">40</text>
+              <text
+                 x="316"
+                 y="133"
+                 fill="#000000"
+                 font-size="11px"
+                 font-family="Tahoma"
+                 id="text22551"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">79</text>
+              <text
+                 x="415.77356"
+                 y="109"
+                 fill="#000000"
+                 font-size="11px"
+                 font-family="Tahoma"
+                 id="text22553"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">94</text>
+              <line
+                 x1="240"
+                 y1="44"
+                 x2="439"
+                 y2="44"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22557" />
+              <line
+                 x1="340"
+                 y1="92"
+                 x2="439"
+                 y2="92"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22561" />
+              <polyline
+                 points="340,117 340,140 440,140"
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="polyline22565" />
+              <line
+                 x1="340"
+                 y1="93"
+                 x2="340"
+                 y2="118"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22567" />
+              <polyline
+                 points="240,81 240,116 340,116"
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="polyline22569" />
+              <line
+                 x1="240"
+                 y1="45"
+                 x2="240"
+                 y2="82"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22571" />
+              <polyline
+                 points="140,134 140,80 240,80"
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="polyline22573" />
+              <line
+                 x1="140"
+                 y1="188"
+                 x2="439"
+                 y2="188"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22577" />
+              <line
+                 x1="140"
+                 y1="134"
+                 x2="140"
+                 y2="188"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22579" />
+              <polyline
+                 points="40,185 40,134 140,134"
+                 fill="none"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="polyline22581" />
+              <line
+                 x1="40"
+                 y1="236"
+                 x2="439"
+                 y2="236"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22585" />
+              <line
+                 x1="40"
+                 y1="185"
+                 x2="40"
+                 y2="236"
+                 stroke="#000000"
+                 stroke-width="1"
+                 stroke-linecap="square"
+                 id="line22587" />
+            </g>
+          </g>
+          <g
+             id="g27028"
+             transform="matrix(0.505604,0,0,0.505604,283.82784,731.15107)"
+             style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">
+            <g
+               id="g28092"
+               style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">
+              <g
+                 id="g28209"
+                 transform="translate(11.257802)"
+                 style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">
+                <text
+                   x="445"
+                   y="51"
+                   fill="#000000"
+                   font-size="15px"
+                   font-family="default"
+                   id="text26883"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e16800;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">Blaberoidea</text>
+                <line
+                   x1="140"
+                   y1="44"
+                   x2="439"
+                   y2="44"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26885"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   x="445"
+                   y="99"
+                   fill="#000000"
+                   font-size="15px"
+                   font-family="default"
+                   id="text26887"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#148f18;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">Blattidea</text>
+                <line
+                   x1="240"
+                   y1="92"
+                   x2="439"
+                   y2="92"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26889"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   x="445"
+                   y="147"
+                   fill="#000000"
+                   font-size="15px"
+                   font-family="Arial"
+                   id="text26891"
+                   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008b85;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">Cryptocercus punctulatus</text>
+                <polyline
+                   points="340,164 340,140 440,140"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="polyline26893"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   x="445"
+                   y="195"
+                   fill="#000000"
+                   font-size="15px"
+                   font-family="default"
+                   id="text26895"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f3490;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">Isoptera</text>
+                <line
+                   x1="340"
+                   y1="188"
+                   x2="439"
+                   y2="188"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26897"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="340"
+                   y1="164"
+                   x2="340"
+                   y2="188"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26899"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <polyline
+                   points="240,129 240,164 340,164"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="polyline26901"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="240"
+                   y1="93"
+                   x2="240"
+                   y2="130"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26903"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <polyline
+                   points="140,87 140,128 240,128"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="polyline26905"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="140"
+                   y1="45"
+                   x2="140"
+                   y2="88"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26907"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <polyline
+                   points="40,161 40,86 140,86"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="polyline26909"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   x="445"
+                   y="243"
+                   fill="#000000"
+                   font-size="15px"
+                   font-family="default"
+                   id="text26911"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#440154;fill-opacity:1;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">Mantoida</text>
+                <line
+                   x1="40"
+                   y1="236"
+                   x2="439"
+                   y2="236"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26913"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="40"
+                   y1="161"
+                   x2="40"
+                   y2="236"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26915"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <text
+                   x="414"
+                   y="253"
+                   fill="#000000"
+                   font-size="11px"
+                   font-family="Tahoma"
+                   id="text26917"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">98</text>
+                <text
+                   x="414"
+                   y="205"
+                   fill="#000000"
+                   font-size="11px"
+                   font-family="Tahoma"
+                   id="text26919"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">99</text>
+                <text
+                   x="314"
+                   y="181"
+                   fill="#000000"
+                   font-size="11px"
+                   font-family="Tahoma"
+                   id="text26921"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">53</text>
+                <text
+                   x="414"
+                   y="61"
+                   fill="#000000"
+                   font-size="11px"
+                   font-family="Tahoma"
+                   id="text26923"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">41</text>
+                <text
+                   x="214"
+                   y="145"
+                   fill="#000000"
+                   font-size="11px"
+                   font-family="Tahoma"
+                   id="text26925"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">58</text>
+                <text
+                   x="414"
+                   y="109"
+                   fill="#000000"
+                   font-size="11px"
+                   font-family="Tahoma"
+                   id="text26927"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none">62</text>
+                <line
+                   x1="140"
+                   y1="44"
+                   x2="439"
+                   y2="44"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26931"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="240"
+                   y1="92"
+                   x2="439"
+                   y2="92"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26935"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <polyline
+                   points="340,164 340,140 440,140"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="polyline26939"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="340"
+                   y1="188"
+                   x2="439"
+                   y2="188"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26943"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="340"
+                   y1="164"
+                   x2="340"
+                   y2="188"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26945"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <polyline
+                   points="240,129 240,164 340,164"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="polyline26947"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="240"
+                   y1="93"
+                   x2="240"
+                   y2="130"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26949"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <polyline
+                   points="140,87 140,128 240,128"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="polyline26951"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="140"
+                   y1="45"
+                   x2="140"
+                   y2="88"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26953"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <polyline
+                   points="40,161 40,86 140,86"
+                   fill="none"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="polyline26955"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="40"
+                   y1="236"
+                   x2="439"
+                   y2="236"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26959"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+                <line
+                   x1="40"
+                   y1="161"
+                   x2="40"
+                   y2="236"
+                   stroke="#000000"
+                   stroke-width="1"
+                   stroke-linecap="square"
+                   id="line26961"
+                   style="stroke-width:1.00168647;stroke-miterlimit:4;stroke-dasharray:none" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="nj_clustaw"
+       style="display:inline" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="nj_muscle"
+       style="display:inline">
+      <g
+         id="g32406"
+         transform="translate(3.95e-7,34.678018)">
+        <g
+           id="g28700"
+           transform="matrix(0.50560399,0,0,0.50560399,-19.971358,-19.639555)"
+           style="display:inline">
+          <g
+             id="g29284">
+            <text
+               x="444"
+               y="51"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text28459"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e16800;fill-opacity:1">Remaining Blaberoidea</text>
+            <line
+               x1="211"
+               y1="44"
+               x2="438"
+               y2="44"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28461" />
+            <text
+               x="444"
+               y="99"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text28463"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#148f18;fill-opacity:1">Blattidae</text>
+            <line
+               x1="268"
+               y1="92"
+               x2="438"
+               y2="92"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28465" />
+            <text
+               x="444"
+               y="147"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text28467"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e16800;fill-opacity:1">Blatellidae 2</text>
+            <line
+               x1="325"
+               y1="140"
+               x2="438"
+               y2="140"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28469" />
+            <text
+               x="444"
+               y="195"
+               fill="#000000"
+               font-size="15px"
+               font-family="Arial"
+               id="text28471"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008b85;fill-opacity:1">Cryptocercus punctulatus</text>
+            <polyline
+               points="382,212 382,188 439,188"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28473" />
+            <text
+               x="444"
+               y="243"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text28475"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f3490;fill-opacity:1">Isoptera</text>
+            <line
+               x1="382"
+               y1="236"
+               x2="438"
+               y2="236"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28477" />
+            <line
+               x1="382"
+               y1="212"
+               x2="382"
+               y2="236"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28479" />
+            <polyline
+               points="325,177 325,212 382,212"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28481" />
+            <line
+               x1="325"
+               y1="141"
+               x2="325"
+               y2="178"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28483" />
+            <polyline
+               points="268,135 268,176 325,176"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28485" />
+            <line
+               x1="268"
+               y1="93"
+               x2="268"
+               y2="136"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28487" />
+            <polyline
+               points="211,90 211,134 268,134"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28489" />
+            <line
+               x1="211"
+               y1="45"
+               x2="211"
+               y2="91"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28491" />
+            <polyline
+               points="154,186 154,89 211,89"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28493" />
+            <text
+               x="444"
+               y="291"
+               fill="#000000"
+               font-size="15px"
+               font-family="Arial"
+               id="text28495"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Temnopteryx sp.</text>
+            <polyline
+               points="154,187 154,284 439,284"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28497" />
+            <polyline
+               points="97,259 97,186 154,186"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28499" />
+            <text
+               x="444"
+               y="339"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text28501"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e16800;fill-opacity:1">Blatellidae 1</text>
+            <line
+               x1="97"
+               y1="332"
+               x2="438"
+               y2="332"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28503" />
+            <line
+               x1="97"
+               y1="259"
+               x2="97"
+               y2="332"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28505" />
+            <polyline
+               points="40,319 40,259 97,259"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28507" />
+            <text
+               x="444"
+               y="387"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text28509"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#440154;fill-opacity:1"><tspan
+                 sodipodi:role="line"
+                 id="tspan83117"
+                 x="444"
+                 y="387">Mantoida</tspan></text>
+            <line
+               x1="40"
+               y1="380"
+               x2="438"
+               y2="380"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28511" />
+            <line
+               x1="40"
+               y1="319"
+               x2="40"
+               y2="380"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28513" />
+            <text
+               x="413"
+               y="253"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28515"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">99</text>
+            <text
+               x="413"
+               y="349"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28517"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">83</text>
+            <text
+               x="413"
+               y="157"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28519"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">86</text>
+            <text
+               x="413"
+               y="109"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28521"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">96</text>
+            <text
+               x="356"
+               y="229"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28523"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">44</text>
+            <text
+               x="413"
+               y="397"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28525"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">78</text>
+            <text
+               x="299"
+               y="193"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28527"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">19</text>
+            <text
+               x="242"
+               y="151"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28529"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">19</text>
+            <text
+               x="128"
+               y="203"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28531"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">14</text>
+            <text
+               x="191"
+               y="106"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28533"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">5</text>
+            <text
+               x="419"
+               y="61"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text28535"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
+            <line
+               x1="211"
+               y1="44"
+               x2="438"
+               y2="44"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28539" />
+            <line
+               x1="268"
+               y1="92"
+               x2="438"
+               y2="92"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28543" />
+            <line
+               x1="325"
+               y1="140"
+               x2="438"
+               y2="140"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28547" />
+            <polyline
+               points="382,212 382,188 439,188"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28551" />
+            <line
+               x1="382"
+               y1="236"
+               x2="438"
+               y2="236"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28555" />
+            <line
+               x1="382"
+               y1="212"
+               x2="382"
+               y2="236"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28557" />
+            <polyline
+               points="325,177 325,212 382,212"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28559" />
+            <line
+               x1="325"
+               y1="141"
+               x2="325"
+               y2="178"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28561" />
+            <polyline
+               points="268,135 268,176 325,176"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28563" />
+            <line
+               x1="268"
+               y1="93"
+               x2="268"
+               y2="136"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28565" />
+            <polyline
+               points="211,90 211,134 268,134"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28567" />
+            <line
+               x1="211"
+               y1="45"
+               x2="211"
+               y2="91"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28569" />
+            <polyline
+               points="154,186 154,89 211,89"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28571" />
+            <polyline
+               points="154,187 154,284 439,284"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28575" />
+            <polyline
+               points="97,259 97,186 154,186"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28577" />
+            <line
+               x1="97"
+               y1="332"
+               x2="438"
+               y2="332"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28581" />
+            <line
+               x1="97"
+               y1="259"
+               x2="97"
+               y2="332"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28583" />
+            <polyline
+               points="40,319 40,259 97,259"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline28585" />
+            <line
+               x1="40"
+               y1="380"
+               x2="438"
+               y2="380"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28589" />
+            <line
+               x1="40"
+               y1="319"
+               x2="40"
+               y2="380"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line28591" />
+          </g>
+        </g>
+        <g
+           id="g29441"
+           transform="matrix(0.505604,0,0,0.505604,289.51983,-19.639555)">
+          <g
+             id="g29763">
+            <text
+               x="445"
+               y="51"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text29290"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e16800;fill-opacity:1">Blaberoidea</text>
+            <line
+               x1="140"
+               y1="44"
+               x2="439"
+               y2="44"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29292" />
+            <text
+               x="445"
+               y="99"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text29294"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#148f18;fill-opacity:1">Blattidae</text>
+            <line
+               x1="240"
+               y1="92"
+               x2="439"
+               y2="92"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29296" />
+            <text
+               x="445"
+               y="147"
+               fill="#000000"
+               font-size="15px"
+               font-family="Arial"
+               id="text29298"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008b85;fill-opacity:1">Cryptocercus punctulatus</text>
+            <polyline
+               points="340,164 340,140 440,140"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline29300" />
+            <text
+               x="445"
+               y="195"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text29302"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f3490;fill-opacity:1">Isoptera</text>
+            <line
+               x1="340"
+               y1="188"
+               x2="439"
+               y2="188"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29304" />
+            <line
+               x1="340"
+               y1="164"
+               x2="340"
+               y2="188"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29306" />
+            <polyline
+               points="240,129 240,164 340,164"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline29308" />
+            <line
+               x1="240"
+               y1="93"
+               x2="240"
+               y2="130"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29310" />
+            <line
+               x1="140"
+               y1="128"
+               x2="240"
+               y2="128"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29312" />
+            <line
+               x1="140"
+               y1="45"
+               x2="140"
+               y2="88"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29314" />
+            <line
+               x1="140"
+               y1="86"
+               x2="140"
+               y2="128"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29316" />
+            <polyline
+               points="40,161 40,86 140,86"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline29318" />
+            <text
+               x="445"
+               y="243"
+               fill="#000000"
+               font-size="15px"
+               font-family="default"
+               id="text29320"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#440154;fill-opacity:1">Mantoida</text>
+            <line
+               x1="40"
+               y1="236"
+               x2="439"
+               y2="236"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29322" />
+            <line
+               x1="40"
+               y1="161"
+               x2="40"
+               y2="236"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29324" />
+            <text
+               x="414"
+               y="205"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text29326"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">98</text>
+            <text
+               x="414"
+               y="253"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text29328"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">80</text>
+            <text
+               x="314"
+               y="181"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text29330"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">70</text>
+            <text
+               x="414"
+               y="109"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text29332"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">84</text>
+            <text
+               x="214"
+               y="145"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text29334"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">61</text>
+            <text
+               x="414"
+               y="61"
+               fill="#000000"
+               font-size="11px"
+               font-family="Tahoma"
+               id="text29336"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">37</text>
+            <line
+               x1="140"
+               y1="44"
+               x2="439"
+               y2="44"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29340" />
+            <line
+               x1="240"
+               y1="92"
+               x2="439"
+               y2="92"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29344" />
+            <polyline
+               points="340,164 340,140 440,140"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline29348" />
+            <line
+               x1="340"
+               y1="188"
+               x2="439"
+               y2="188"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29352" />
+            <line
+               x1="340"
+               y1="164"
+               x2="340"
+               y2="188"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29354" />
+            <polyline
+               points="240,129 240,164 340,164"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline29356" />
+            <line
+               x1="240"
+               y1="93"
+               x2="240"
+               y2="130"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29358" />
+            <line
+               x1="140"
+               y1="128"
+               x2="240"
+               y2="128"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29360" />
+            <line
+               x1="140"
+               y1="45"
+               x2="140"
+               y2="88"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29362" />
+            <line
+               x1="140"
+               y1="86"
+               x2="140"
+               y2="128"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29364" />
+            <polyline
+               points="40,161 40,86 140,86"
+               fill="none"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="polyline29366" />
+            <line
+               x1="40"
+               y1="236"
+               x2="439"
+               y2="236"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29370" />
+            <line
+               x1="40"
+               y1="161"
+               x2="40"
+               y2="236"
+               stroke="#000000"
+               stroke-width="1"
+               stroke-linecap="square"
+               id="line29372" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="annotations2"
+     transform="matrix(0.50560399,0,0,0.50560399,-19.971358,3.6937785)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97783"
+       x="39.5"
+       y="12.73018"
+       id="text35851"><tspan
+         sodipodi:role="line"
+         id="tspan35849"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.97783"
+         x="39.5"
+         y="12.73018">A) ClustaW, Neighbor joining</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97783"
+       x="649.13654"
+       y="12.73018"
+       id="text35851-3"><tspan
+         sodipodi:role="line"
+         id="tspan35849-9"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.97783"
+         x="649.13654"
+         y="12.73018">B) Muscle, Neighbor joining</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97783"
+       x="649.13654"
+       y="474.23578"
+       id="text35851-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan35849-9-3"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.97783"
+         x="649.13654"
+         y="474.23578">D) Muscle, Maximum Parsimony</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97783"
+       x="648.13654"
+       y="794.69305"
+       id="text35851-3-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan35849-9-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.97783"
+         x="648.13654"
+         y="794.69305">D) Muscle, Maximum Likelihood</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97783"
+       x="37.941944"
+       y="474.23578"
+       id="text35851-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan35849-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.97783"
+         x="37.941944"
+         y="474.23578">C) Clustaw, Maximum Parsimony</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97783"
+       x="37.014839"
+       y="794.69305"
+       id="text35851-3-6-4"
+       inkscape:transform-center-x="-229.54439"
+       inkscape:transform-center-y="-124.64873"><tspan
+         sodipodi:role="line"
+         id="tspan35849-9-2-5"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:26.3711px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.97783"
+         x="37.014839"
+         y="794.69305">E) Clustaw, Maximum Likelihood</tspan></text>
+  </g>
+</svg>

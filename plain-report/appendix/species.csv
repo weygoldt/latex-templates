@@ -1,0 +1,100 @@
+No,Order,Family,Species,GenBankID
+1,Blattodea,Blaberidae,Archimandrita tessellata,DQ874110
+2,Blattodea,Blaberidae,Blaberus sp. 1,DQ874112
+3,Blattodea,Blaberidae,Blaptica dubia,DQ874113
+4,Blattodea,Blaberidae,Byrsotria fumigata,DQ874117
+5,Blattodea,Blaberidae,Eublaberus posticus,DQ874131
+6,Blattodea,Blaberidae,Hormetica sp. 1,DQ874144
+7,Blattodea,Blaberidae,Lucihormetica subcincta,DQ874151
+8,Blattodea,Blaberidae,Phoetalia pallida,DQ874174
+9,Blattodea,Blaberidae,Diploptera punctata,DQ874123
+10,Blattodea,Blaberidae,Aptera fusca,DQ874108
+11,Blattodea,Blaberidae,Calolampra irrorata,DQ874118
+12,Blattodea,Blaberidae,Opisthoplatia orientalis,DQ874162
+13,Blattodea,Blaberidae,Pseudophoraspis sp. nr. nebulosa,DQ874184
+14,Blattodea,Blaberidae,Macropanesthia rhinoceros,DQ874152
+15,Blattodea,Blaberidae,Gyna lurida,DQ874139
+16,Blattodea,Blaberidae,Aeluropoda insignis,DQ874106
+17,Blattodea,Blaberidae,Brachynauphoeta foulpointeensis,DQ874141
+18,Blattodea,Blaberidae,Elliptorhina chopardi,DQ874128
+19,Blattodea,Blaberidae,Gromphadorhina oblongonota,DQ874138
+20,Blattodea,Blaberidae,Heminauphoeta sp. 1,DQ874140
+21,Blattodea,Blaberidae,Henschoutedenia flexivitta,DQ874142
+22,Blattodea,Blaberidae,Leozehntnera maxima,DQ874149
+23,Blattodea,Blaberidae,Nauphoeta cinerea,DQ874156
+24,Blattodea,Blaberidae,Princisia vanwaerebeki,DQ874178
+25,Blattodea,Blaberidae,Rhyparobia maderae,DQ874186
+26,Blattodea,Blaberidae,Panchlora azteca,DQ874164
+27,Blattodea,Blaberidae,Panchlora sp. 1,DQ874163
+28,Blattodea,Blaberidae,Panesthia cribrata,DQ874166
+29,Blattodea,Blaberidae,Panesthia sp. 1,DQ874165
+30,Blattodea,Blaberidae,Genus nr. Bantua sp. 1,DQ874159
+31,Blattodea,Blaberidae,Perisphaeriinae sp. 1,DQ874172
+32,Blattodea,Blaberidae,Perisphaerus sp. 1,DQ874173
+33,Blattodea,Blaberidae,Pycnoscelus surinamensis,DQ874185
+34,Blattodea,Blaberidae,Phortioeca phoraspoides,DQ874175
+35,Blattodea,Blaberidae,Schultesia lampyridiformis,DQ874187
+36,Blattodea,Blattellidae,Blattella germanica,DQ874116
+37,Blattodea,Blattellidae,Ischnoptera sp. 1,DQ874146
+38,Blattodea,Blattellidae,Ischnoptera sp. 2,DQ874147
+39,Blattodea,Blattellidae,Ischnoptera sp. 3,DQ874107
+40,Blattodea,Blattellidae,Loboptera decipiens,DQ874150
+41,Blattodea,Blattellidae,Paratemnopteryx couloniana,DQ874167
+42,Blattodea,Blattellidae,Pseudomops oblongata,DQ874183
+43,Blattodea,Blattellidae,Pseudomops sp. 1,DQ874181
+44,Blattodea,Blattellidae,Pseudomops sp. 2,DQ874182
+45,Blattodea,Blattellidae,Symploce pallens,DQ874188
+46,Blattodea,Blattellidae,Temnopteryx sp. 1,DQ874189
+47,Blattodea,Blattellidae,Xestoblatta sp. 1,DQ874193
+48,Blattodea,Blattellidae,Ectobius lapponicus,DQ874125
+49,Blattodea,Blattellidae,Ectobius pallidus,DQ874126
+50,Blattodea,Blattellidae,Ectobius panzeri,DQ874127
+51,Blattodea,Blattellidae,Nyctibora acaciana,DQ874161
+52,Blattodea,Blattellidae,Nyctibora sp. 1,DQ874160
+53,Blattodea,Blattellidae,Paratropes sp. 1,DQ874168
+54,Blattodea,Blattellidae,Balta cf. similis,DQ874111
+55,Blattodea,Blattellidae,Euthlastoblatta sp. 1,DQ874135
+56,Blattodea,Blattellidae,Euthlastoblatta sp. 2,DQ874136
+57,Blattodea,Blattellidae,Latiblattella sp. 3,DQ874148
+58,Blattodea,Blattellidae,Neoblattella sp. 1,DQ874157
+59,Blattodea,Blattidae,Archiblatta hoevenii,DQ874109
+60,Blattodea,Blattidae,Blatta orientalis,DQ874115
+61,Blattodea,Blattidae,Deropeltis cf. paulioni,DQ874122
+62,Blattodea,Blattidae,Deropeltis erythrocephala,DQ874121
+63,Blattodea,Blattidae,Deropeltis sp. 1,DQ874120
+64,Blattodea,Blattidae,Periplaneta australasiae,DQ874169
+65,Blattodea,Blattidae,Periplaneta brunnea,DQ874170
+66,Blattodea,Blattidae,Periplaneta fuliginosa,DQ874171
+67,Blattodea,Blattidae,Pseudoderopeltis sp. 1,DQ874180
+68,Blattodea,Blattidae,Shelfordella lateralis,DQ874114
+69,Blattodea,Blattidae,Drymaplaneta cf. semivitta,DQ874124
+70,Blattodea,Blattidae,Eurycotis floridana,DQ874133
+71,Blattodea,Blattidae,Eurycotis pluto,DQ874134
+72,Blattodea,Blattidae,Eurycotis sp. 1,DQ874132
+73,Blattodea,Cryptocercidae,Cryptocercus punctulatus,DQ874119
+74,Blattodea,Nocticolidae,Nocticola australiensis,DQ874158
+75,Blattodea,Termitidae,Microhodotermes viator,DQ882640
+76,Blattodea,Termitidae,Cryptotermes secundus,DQ882635
+77,Blattodea,Termitidae,Mastotermes darwiniensis,DQ882638
+78,Blattodea,Termitidae,Coptotermes acinaciformis,DQ882634
+79,Blattodea,Termitidae,Psammotermes allocerus,DQ882643
+80,Blattodea,Termitidae,Schedorhinotermes laminianus,DQ882645
+81,Blattodea,Termitidae,Aderitotermes fossor,DQ882630
+82,Blattodea,Termitidae,Amitermes heterognathus,DQ882631
+83,Blattodea,Termitidae,Anoplotermes grp sp. J,DQ882632
+84,Blattodea,Termitidae,Foraminitermes valens,DQ882636
+85,Blattodea,Termitidae,Macrotermes ivorensis,DQ882637
+86,Blattodea,Termitidae,Microcerotermes  newmani,DQ882639
+87,Blattodea,Termitidae,Nasutitermes similis,DQ882641
+88,Blattodea,Termitidae,Pseudacanthotermes militaris,DQ882644
+89,Blattodea,Termitidae,Termes fatalis,DQ882646
+90,Blattodea,Termitidae,Tumulitermes westraliensis,DQ882647
+91,Blattodea,Termitidae,Porotermes quadricollis,DQ882642
+92,Mantodea,Hymenopodidae,Phyllocrania paradoxa,DQ874176
+93,Mantodea,Hymenopodidae,Pseudocreobotra wahlbergii,DQ874179
+94,Mantodea,Iridopterygidae,Ichromantis dichroica,DQ874145
+95,Mantodea,Mantidae,Tenodera sinensis,DQ874190
+96,Mantodea,Mantidae,Mantis religiosa,AY491153
+97,Mantodea,Mantidae,Miomantis sp.,DQ874155
+98,Mantodea,Mantoididae,Mantoida schraderi             ,AY491160
+99,Mantodea,Metallyticidae,Metallyticus violacea,DQ874154

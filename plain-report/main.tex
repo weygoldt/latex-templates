@@ -1,0 +1,114 @@
+\documentclass[]{article}       % Default text size and document class
+
+% Format -----------------------------------------------------------------------------
+\usepackage[                    % To set up the page
+  a4paper,                        % A4 paper
+  width=160mm,                    % Text body width
+  top=25mm,bottom=25mm,           % Top and bottom margins
+  bindingoffset=6mm               % Offset of left and right pages for printing
+  ]
+  {geometry}
+\usepackage{setspace}           % So set spacings (e.g. line height)
+  \onehalfspacing                 % Sets line width to 1.5
+\usepackage{sectsty}            % To control sectional headers
+  \chapternumberfont{\huge}       % Set size of chapter number
+  \chaptertitlefont{\huge}        % Set size of chapter title
+\usepackage{multicol}           % Writes in multiple columns
+\usepackage{lipsum}             % Inserts blind text for previewing
+
+% Language ---------------------------------------------------------------------------
+\usepackage[english]{babel}     % To enable language support other than us english
+\usepackage[babel]{csquotes}    % Omits spell checking in quotations
+
+% Images, long tables & append pdf pages ---------------------------------------------
+\usepackage{float}              % Enables some options for image placement
+\usepackage{graphicx}           % To include graphics
+\usepackage{                    % Long table stuff
+  csvsimple,                      % So a csv can be converted to a table
+  longtable,                      % To make long tables
+  booktabs                        % To page break long tables properly
+  }
+\usepackage{pdfpages}           % Appends pdf pages
+
+% Custom fancy image caption ---------------------------------------------------------
+\usepackage{caption}
+  \captionsetup[figure]{labelsep=space}
+  \captionsetup[table]{labelsep=space}
+  \newcommand{\mycaption}[2]{\caption[#1]{\textbar\,\textbf{#1} #2}}
+
+% Math support -----------------------------------------------------------------------
+\usepackage{amsmath, amsfonts}  % For fancy math
+
+% Citation setup ---------------------------------------------------------------------
+\usepackage[]{hyperref}         % To make clickable links
+  \hypersetup{hidelinks,}         % To draw no boxes around the links
+\usepackage[                    % Citation setup
+    backend=biber,                % Citation backend
+    style=authoryear-comp,        % Citation format
+    maxnames=1,                   % Max number of names displayed in text
+    sortlocale=de_DE,             % Sorts by german conventions (ß = ss)
+    natbib=true,                  % Enables \citep and \citet. Use \parencite and \textcite in future
+    url=false,                    % Disaples url
+    doi=true,                     % To print the doi
+    eprint=false                  % Disables link to eprint (?)
+]{biblatex}
+\addbibresource{references.bib} % Where the bibliography file is
+
+% Abstract title same size as sectional headers --------------------------------------
+% see here: https://tex.stackexchange.com/questions/366169/how-to-change-font-size-for-abstract-title
+\makeatletter
+\renewenvironment{abstract}{%
+    \if@twocolumn
+      \section*{\abstractname}%
+    \else %% <- here I've removed \small
+      \begin{center}%
+        {\bfseries \Large\abstractname\vspace{\z@}}%  %% <- here I've added \Large
+      \end{center}%
+      \quotation
+    \fi}
+    {\if@twocolumn\else\endquotation\fi}
+\makeatother
+
+
+% Document ---------------------------------------------------------------------------
+\begin{document}
+\input{chapters/titlepage.tex} % Add the path to the titlepage here
+
+\begin{abstract}
+    \input{chapters/abstract.tex}
+\end{abstract}
+
+\section{Introduction}
+  \label{chap:introduction}
+  \input{chapters/introduction.tex}
+
+\section{Methods}
+  \label{chap:methods}
+  \input{chapters/methods.tex}
+
+\section{Results}
+  \label{chap:results}
+  \input{chapters/results.tex}
+
+\section{Discussion}
+  \label{chap:discussion}
+  \input{chapters/discussion.tex}
+
+\section{Summary}
+  \label{chap:summary}
+  \input{chapters/summary.tex}
+
+\pagebreak
+\printbibliography
+
+\pagebreak
+\section{Appendix}
+  \label{chap:appendix}
+  \input{chapters/appendix.tex}
+
+% Append pdf outputs from other programs to the document
+\includepdf[pages=-]{appendix/ab.pdf}
+\includepdf[pages=-]{appendix/cd.pdf}
+\includepdf[pages=-]{appendix/ef.pdf}
+
+\end{document}
