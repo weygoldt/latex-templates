@@ -1,4 +1,6 @@
-\documentclass[]{article}       % Default text size and document class
+\documentclass[a4paper]{article}       % Default text size and document class
+
+\usepackage{lipsum}
 
 % Format -----------------------------------------------------------------------------
 \usepackage[                    % To set up the page
@@ -7,14 +9,15 @@
   top=25mm,bottom=25mm,           % Top and bottom margins
   bindingoffset=6mm               % Offset of left and right pages for printing
   ]
-  {geometry}
+ {geometry}
 \usepackage{setspace}           % So set spacings (e.g. line height)
   \onehalfspacing                 % Sets line width to 1.5
-\usepackage{sectsty}            % To control sectional headers
-  \chapternumberfont{\huge}       % Set size of chapter number
-  \chaptertitlefont{\huge}        % Set size of chapter title
+
 \usepackage{multicol}           % Writes in multiple columns
+\usepackage{wrapfig}
 \usepackage{lipsum}             % Inserts blind text for previewing
+\usepackage{placeins}           % adding float barriers 
+\setlength{\parindent}{0pt}     % remove indentation for new paragraphs
 
 % Language ---------------------------------------------------------------------------
 \usepackage[english]{babel}     % To enable language support other than us english
@@ -29,30 +32,40 @@
   booktabs                        % To page break long tables properly
   }
 \usepackage{pdfpages}           % Appends pdf pages
+\usepackage{xcolor}
 
 % Custom fancy image caption ---------------------------------------------------------
 \usepackage{caption}
   \captionsetup[figure]{labelsep=space}
-  \captionsetup[table]{labelsep=space}
   \newcommand{\mycaption}[2]{\caption[#1]{\textbar\,\textbf{#1} #2}}
 
-% Math support -----------------------------------------------------------------------
+% Math and code support -----------------------------------------------------------------------
 \usepackage{amsmath, amsfonts}  % For fancy math
-
+\usepackage[separate-uncertainty = true]{siunitx} % for SI units
+\sisetup{detect-all}
+\usepackage{xcolor}
+\NewDocumentCommand{\codeword}{v}{%
+\texttt{\textcolor{black}{#1}}%
+}
 % Citation setup ---------------------------------------------------------------------
 \usepackage[]{hyperref}         % To make clickable links
   \hypersetup{hidelinks,}         % To draw no boxes around the links
-\usepackage[                    % Citation setup
+\usepackage[                    % Citation setup  
     backend=biber,                % Citation backend
-    style=authoryear-comp,        % Citation format
-    maxnames=1,                   % Max number of names displayed in text
-    sortlocale=de_DE,             % Sorts by german conventions (ß = ss)
-    natbib=true,                  % Enables \citep and \citet. Use \parencite and \textcite in future
+    style=apa,                    % Citation format
     url=false,                    % Disaples url
     doi=true,                     % To print the doi
     eprint=false                  % Disables link to eprint (?)
 ]{biblatex}
-\addbibresource{references.bib} % Where the bibliography file is
+\DeclareDelimFormat[parencite]{finalnamedelim}{\addspace and\space} % disabels & and uses 'and'
+\DeclareDelimFormat[bib,biblist]{finalnamedelim}{\addspace and\space} % disabels & and uses 'and' in the bibfile
+
+\addbibresource{bibliography.bib} % Where the bibliography file is
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{tgheros}
+\usepackage{wrapfig}
+
+\setlength\bibitemsep{2\itemsep} 
 
 % Abstract title same size as sectional headers --------------------------------------
 % see here: https://tex.stackexchange.com/questions/366169/how-to-change-font-size-for-abstract-title
@@ -69,46 +82,34 @@
     {\if@twocolumn\else\endquotation\fi}
 \makeatother
 
-
 % Document ---------------------------------------------------------------------------
 \begin{document}
-\input{chapters/titlepage.tex} % Add the path to the titlepage here
+\input{chapters/00_titlepage.tex} % Add the path to the titlepage here
 
 \begin{abstract}
-    \input{chapters/abstract.tex}
+    \input{chapters/01_abstract.tex}
 \end{abstract}
 
 \section{Introduction}
-  \label{chap:introduction}
-  \input{chapters/introduction.tex}
+    \label{chap:introduction}
+    \input{chapters/02_introduction.tex}
 
+\pagebreak
 \section{Methods}
-  \label{chap:methods}
-  \input{chapters/methods.tex}
+    \label{chap:methods}
+    \input{chapters/03_methods.tex}
 
+\pagebreak
 \section{Results}
-  \label{chap:results}
-  \input{chapters/results.tex}
+    \label{chap:results}
+    \input{chapters/04_results.tex}
 
+\pagebreak
 \section{Discussion}
-  \label{chap:discussion}
-  \input{chapters/discussion.tex}
-
-\section{Summary}
-  \label{chap:summary}
-  \input{chapters/summary.tex}
+    \label{chap:discussion}
+    \input{chapters/05_discussion.tex}
 
 \pagebreak
-\printbibliography
-
-\pagebreak
-\section{Appendix}
-  \label{chap:appendix}
-  \input{chapters/appendix.tex}
-
-% Append pdf outputs from other programs to the document
-\includepdf[pages=-]{appendix/ab.pdf}
-\includepdf[pages=-]{appendix/cd.pdf}
-\includepdf[pages=-]{appendix/ef.pdf}
+\printbibliography 
 
 \end{document}
